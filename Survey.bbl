@@ -86,6 +86,11 @@
 \newblock In \emph{Visualization, 2005. VIS 05. IEEE} (2005), IEEE,
   pp.~191--198.
 
+\bibitem[CLH12]{chen2012visual}
+\textsc{Chen T., Lu A., Hu S.-M.}:
+\newblock Visual storylines: Semantic visualization of movie sequence.
+\newblock \emph{Computers \& Graphics 36}, 4 (2012), 241--249.
+
 \bibitem[CLM15]{cropper2015scientific}
 \textsc{Cropper A., Luna R.~E., Mclean E.~L.}:
 \newblock {Scientific Storytelling: From up in the clouds to down to earth A
@@ -589,6 +594,11 @@
 \textsc{Wohlfart M.}:
 \newblock {Story Telling Aspects in Medical Applications}.
 \newblock In \emph{Central European Seminar on Computer Graphics} (2006).
+
+\bibitem[YMH01]{yahiaoui2001automatic}
+\textsc{Yahiaoui I., Merialdo B., Huet B.}:
+\newblock Automatic video summarization.
+\newblock In \emph{Proc. CBMIR Conf} (2001).
 
 \bibitem[Zip13]{Jack1995}
 \textsc{Zipes J.}:
