@@ -1,0 +1,45 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Survey.aux
+The style file: eg-alpha-doi.bst
+Database file #1: egbibsample.bib
+Repeated entry---line 740 of file egbibsample.bib
+ : @inproceedings{heer2007
+ :                        ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 861 of file egbibsample.bib
+ :  
+ :  year={2015}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 875 of file egbibsample.bib
+ :  
+ :  year={2015}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Name 1 in "M. Green, H. Warrell, S. Tarling, S. Bernard, and M. Formentini" has a comma at the end for entry afghanistan
+while executing---line 1719 of file eg-alpha-doi.bst
+Too many commas in name 1 of "M. Green, H. Warrell, S. Tarling, S. Bernard, and M. Formentini" for entry afghanistan
+while executing---line 1719 of file eg-alpha-doi.bst
+Name 1 in "M. Green, H. Warrell, S. Tarling, S. Bernard, and M. Formentini" has a comma at the end for entry afghanistan
+while executing---line 1719 of file eg-alpha-doi.bst
+Too many commas in name 1 of "M. Green, H. Warrell, S. Tarling, S. Bernard, and M. Formentini" for entry afghanistan
+while executing---line 1719 of file eg-alpha-doi.bst
+Name 1 in "J.Heer, A. Haeg, and M. Agrawala" has a comma at the end for entry heer2
+while executing---line 1719 of file eg-alpha-doi.bst
+Name 1 in "J.Heer, A. Haeg, and M. Agrawala" has a comma at the end for entry heer2
+while executing---line 1719 of file eg-alpha-doi.bst
+Name 1 in "M.Bloch, S.Carter, and A.McLean" has a comma at the end for entry Bloch
+while executing---line 1719 of file eg-alpha-doi.bst
+Name 1 in "M.Bloch, S.Carter, and A.McLean" has a comma at the end for entry Bloch
+while executing---line 1719 of file eg-alpha-doi.bst
+Warning--empty year in risks2015
+Warning--empty journal in gonzalez1995animation
+Name 1 in "J.Heer, A. Haeg, and M. Agrawala" has a comma at the end for entry heer2
+while executing---line 1798 of file eg-alpha-doi.bst
+Name 1 in "M.Bloch, S.Carter, and A.McLean" has a comma at the end for entry Bloch
+while executing---line 1798 of file eg-alpha-doi.bst
+Name 1 in "M. Green, H. Warrell, S. Tarling, S. Bernard, and M. Formentini" has a comma at the end for entry afghanistan
+while executing---line 1798 of file eg-alpha-doi.bst
+Too many commas in name 1 of "M. Green, H. Warrell, S. Tarling, S. Bernard, and M. Formentini" for entry afghanistan
+while executing---line 1798 of file eg-alpha-doi.bst
+Warning--empty year in adam2015
+(There were 15 error messages)

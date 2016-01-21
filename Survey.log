@@ -1,0 +1,1403 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.7.24)  21 JAN 2016 10:05
+entering extended mode
+**Survey.tex
+
+(C:\Users\admin\Downloads\EuroVis2016FullPapers_latex2e\egPublStyle-EuroVis2016
+\Survey.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+
+(C:\Users\admin\Downloads\EuroVis2016FullPapers_latex2e\egPublStyle-EuroVis2016
+\egpubl.cls
+Document Class: egpubl 2015/12/03 Document Style for EG Publications v3.63
+\c@table=\count79
+\c@figure=\count80
+\c@part=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\titlespace=\skip41
+\teaserspace=\skip42
+\c@p@volume=\count87
+\bibhang=\skip43
+\every@verbatim=\toks14
+\verbatim@line=\toks15
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(C:\Users\admin\Downloads\EuroVis2016FullPapers_latex2e\egPublStyle-EuroVis2016
+\Survey.lbl))
+(C:\Users\admin\Downloads\EuroVis2016FullPapers_latex2e\egPublStyle-EuroVis2016
+\eurovis2016.sty) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen104
+\Hy@linkcounter=\count89
+\Hy@pagecounter=\count90
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count91
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+Package hyperref Info: Option `bookmarks' set `false' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing ON on input line 4461.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks OFF on input line 4694.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\backref.sty"
+Package: backref 2012/07/25 v1.38 Bibliographical back referencing
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+\c@Hy@tempcnt=\count92
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen105
+\Fld@menulength=\count93
+\Field@Width=\dimen106
+\Fld@charsize=\dimen107
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing ON on input line 6308.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count94
+\c@Item=\count95
+\c@Hfootnote=\count96
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count97
+\c@bookmark@seq@number=\count98
+\Hy@SectionHShift=\skip44
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.sty"
+Package: t1enc 1994/06/01 Standard LaTeX package
+)
+(C:\Users\admin\Downloads\EuroVis2016FullPapers_latex2e\egPublStyle-EuroVis2016
+\dfadobe.sty
+Package: dfadobe 2000/03/05 v1.4 T1-encoded Times (except symbols), Courier, He
+lvetica (at 90\%) + math package
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 14.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ptmcm/m/n on input line 14.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptmcm/m/n on input line 14.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 15.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ptmcm/m/it on input line 15.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ptmcm/m/it on input line 15.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 16.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 16.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 16.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 19.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 20.
+
+(C:\Users\admin\Downloads\EuroVis2016FullPapers_latex2e\egPublStyle-EuroVis2016
+\dfT1ptm.fd
+File: dfT1ptm.fd 2000/03/05 DF - Fontinst v1.6 font definitions for T1/ptm.
+)
+(C:\Users\admin\Downloads\EuroVis2016FullPapers_latex2e\egPublStyle-EuroVis2016
+\dfT1phv.fd
+File: dfT1phv.fd 1997/12/02 Fontinst v1.6 font definitions for T1/phv scaled to
+ 90\%.
+)
+(C:\Users\admin\Downloads\EuroVis2016FullPapers_latex2e\egPublStyle-EuroVis2016
+\dfT1pcr.fd
+File: dfT1pcr.fd 2000/03/05 DF - Fontinst v1.6 font definitions for T1/pcr.
+))
+(C:\Users\admin\Downloads\EuroVis2016FullPapers_latex2e\egPublStyle-EuroVis2016
+\egweblnk.sty
+Package: egweblnk 2004/10/29 v2.2 DF's support for http web links in class egpu
+bl
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex"
+\pgfutil@everybye=\toks17
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def"
+\pgfutil@abb=\box26
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+))
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex"
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.te
+x"
+\pgfkeys@tmptoks=\toks20
+))
+\pgf@x=\dimen108
+\pgf@y=\dimen109
+\pgf@xa=\dimen110
+\pgf@ya=\dimen111
+\pgf@xb=\dimen112
+\pgf@yb=\dimen113
+\pgf@xc=\dimen114
+\pgf@yc=\dimen115
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count99
+\c@pgf@countb=\count100
+\c@pgf@countc=\count101
+\c@pgf@countd=\count102
+ ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+"
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.t
+ex"
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+\pgfsyssoftpath@smallbuffer@items=\count103
+\pgfsyssoftpath@bigbuffer@items=\count104
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.t
+ex"
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex"
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen116
+\pgfmath@count=\count105
+\pgfmath@box=\box27
+\pgfmath@toks=\toks21
+\pgfmath@stack@operand=\toks22
+\pgfmath@stack@operation=\toks23
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometr
+ic.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code
+.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.
+code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.t
+ex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.t
+ex"))) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex
+"
+\c@pgfmathroundto@lastzeros=\count106
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+"
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen117
+\pgf@picmaxx=\dimen118
+\pgf@picminy=\dimen119
+\pgf@picmaxy=\dimen120
+\pgf@pathminx=\dimen121
+\pgf@pathmaxx=\dimen122
+\pgf@pathminy=\dimen123
+\pgf@pathmaxy=\dimen124
+\pgf@xx=\dimen125
+\pgf@xy=\dimen126
+\pgf@yx=\dimen127
+\pgf@yy=\dimen128
+\pgf@zx=\dimen129
+\pgf@zy=\dimen130
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.c
+ode.tex"
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen131
+\pgf@path@lasty=\dimen132
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.
+tex"
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen133
+\pgf@shorten@start@additional=\dimen134
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+"
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+\pgfpic=\box28
+\pgf@hbox=\box29
+\pgf@layerbox@main=\box30
+\pgf@picture@serial@count=\count107
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.co
+de.tex"
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen135
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations
+.code.tex"
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen136
+\pgf@pt@y=\dimen137
+\pgf@pt@temp=\dimen138
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.te
+x"
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.
+code.tex"
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+"
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen139
+\pgf@sys@shading@range@num=\count108
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.te
+x"
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.t
+ex"
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+\pgfexternal@startupbox=\box31
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+"
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.co
+de.tex"
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.t
+ex"
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+\pgfnodeparttextbox=\box32
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.
+sty"
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen140
+\pgf@nodesepend=\dimen141
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.
+sty"
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen142
+\pgffor@skip=\dimen143
+\pgffor@stack=\toks24
+\pgffor@toks=\toks25
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex"
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.
+code.tex"
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count109
+\pgfplotmarksize=\dimen144
+)
+\tikz@lastx=\dimen145
+\tikz@lasty=\dimen146
+\tikz@lastxsaved=\dimen147
+\tikz@lastysaved=\dimen148
+\tikzleveldistance=\dimen149
+\tikzsiblingdistance=\dimen150
+\tikz@figbox=\box33
+\tikz@tempbox=\box34
+\tikztreelevel=\count110
+\tikznumberofchildren=\count111
+\tikznumberofcurrentchild=\count112
+\tikz@fig@count=\count113
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count114
+\pgfmatrixcurrentcolumn=\count115
+\pgf@matrix@numberofcolumns=\count116
+)
+\tikz@expandcount=\count117
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+librarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count118
+\float@exts=\toks26
+\float@box=\box35
+\@float@everytoks=\toks27
+\@floatcapt=\box36
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\capt-of\capt-of.sty"
+Package: capt-of 2009/12/29 v0.2 standard captions outside of floats
+)
+(C:\Users\admin\Downloads\EuroVis2016FullPapers_latex2e\egPublStyle-EuroVis2016
+\Survey.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count119
+\scratchdimen=\dimen151
+\scratchbox=\box37
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count122
+\MPscratchDim=\dimen152
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks29
+)
+\AtBeginShipoutBox=\box38
+
+
+Package hyperref Warning: Height of page (\paperheight) is invalid (0.0pt),
+(hyperref)                using 11in.
+
+Package hyperref Info: Link coloring ON on input line 51.
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count125
+)
+LaTeX Info: Redefining \ref on input line 51.
+LaTeX Info: Redefining \pageref on input line 51.
+LaTeX Info: Redefining \nameref on input line 51.
+
+ABD: EveryShipout initializing macros
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 73.
+LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 73
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptmcm.fd"
+File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 73
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlptmcm.fd"
+File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+psycm on input line 73
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxpsycm.fd"
+File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
+)
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 73.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 73.
+
+Overfull \hbox (2.25pt too wide) has occurred while \output is active
+[]
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 99.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <6> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 99.
+ [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+Underfull \hbox (badness 1902) in paragraph at lines 99--100
+[]\T1/ptm/m/n/9 Data en-hance-ment and deriva-tion: Data en-hance-ment and
+ []
+
+[2]
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[3pdfTeX warning (ext4): destination with the same identifier (name{table.1}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.184 \item S
+             tory Telling Process: This process is to present volume visuali...
+] <./images/VRVis-Wohlfart-Michael.png, id=172, 411.939pt x 344.487pt>
+File: ./images/VRVis-Wohlfart-Michael.png Graphic file (type png)
+
+<use ./images/VRVis-Wohlfart-Michael.png>
+Package pdftex.def Info: ./images/VRVis-Wohlfart-Michael.png used on input line
+ 195.
+(pdftex.def)             Requested size: 226.79846pt x 189.65765pt.
+
+<./images/wohlfart07storyTelling.png, id=184, 487.06969pt x 578.91281pt>
+File: ./images/wohlfart07storyTelling.png Graphic file (type png)
+
+<use ./images/wohlfart07storyTelling.png>
+Package pdftex.def Info: ./images/wohlfart07storyTelling.png used on input line
+ 223.
+(pdftex.def)             Requested size: 226.79846pt x 269.56268pt.
+ [4pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.238 \end{enumerate}
+                      <C:/Users/admin/Downloads/EuroVis2016FullPapers_latex2e/e
+gPublStyle-EuroVis2016/images/VRVis-Wohlfart-Michael.png>]
+<./images/cruz2011.jpg, id=233, 660.21657pt x 625.58719pt>
+File: ./images/cruz2011.jpg Graphic file (type jpg)
+
+<use ./images/cruz2011.jpg>
+Package pdftex.def Info: ./images/cruz2011.jpg used on input line 271.
+(pdftex.def)             Requested size: 227.62204pt x 215.68463pt.
+Missing character: There is no â in font zptmcmr!
+Missing character: There is no € in font zptmcmr!
+Missing character: There is no ™ in font zptmcmr!
+Missing character: There is no â in font zptmcmr!
+Missing character: There is no € in font zptmcmr!
+Missing character: There is no ™ in font zptmcmr!
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[5pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.283 \item S
+             ourcecloud Flow View: Sourcecloud Flow View presents a word clo...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
+s been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.283 \item S
+             ourcecloud Flow View: Sourcecloud Flow View presents a word clo...
+ <C:/Users/admin/Downloads/EuroVis2016FullPapers_latex2e/egPublStyle-EuroVis201
+6/images/wohlfart07storyTelling.png> <C:/Users/admin/Downloads/EuroVis2016FullP
+apers_latex2e/egPublStyle-EuroVis2016/images/cruz2011.jpg>]
+<./images/kuhn2012.png, id=266, 205.9695pt x 454.0965pt>
+File: ./images/kuhn2012.png Graphic file (type png)
+
+<use ./images/kuhn2012.png>
+Package pdftex.def Info: ./images/kuhn2012.png used on input line 296.
+(pdftex.def)             Requested size: 199.16928pt x 439.10114pt.
+
+Underfull \hbox (badness 1540) in paragraph at lines 310--311
+[]\T1/ptm/m/n/9 Story prepa-ra-tion: The data-based story is recorded in
+ []
+
+<./images/lee2013.jpg, id=274, 969.6225pt x 295.1025pt>
+File: ./images/lee2013.jpg Graphic file (type jpg)
+
+<use ./images/lee2013.jpg>
+Package pdftex.def Info: ./images/lee2013.jpg used on input line 325.
+(pdftex.def)             Requested size: 227.62204pt x 69.27254pt.
+ [6pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.340 \item \textit
+                   {GeoTime Components:}pdfTeX warning (ext4): destination with
+ the same identifier (name{figure.5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.340 \item \textit
+                   {GeoTime Components:} <C:/Users/admin/Downloads/EuroVis2016F
+ullPapers_latex2e/egPublStyle-EuroVis2016/images/kuhn2012.png> <C:/Users/admin/
+Downloads/EuroVis2016FullPapers_latex2e/egPublStyle-EuroVis2016/images/lee2013.
+jpg>] <./images/eccles2007.png, id=308, 880.03781pt x 673.01437pt>
+File: ./images/eccles2007.png Graphic file (type png)
+
+<use ./images/eccles2007.png>
+Package pdftex.def Info: ./images/eccles2007.png used on input line 356.
+(pdftex.def)             Requested size: 227.62204pt x 174.0759pt.
+
+Underfull \hbox (badness 1320) in paragraph at lines 367--370
+[]\T1/ptm/m/it/9 Geological sto-ry-telling mod-els\T1/ptm/m/n/9 : The ge-o-log-
+i-cal sto-ry-telling
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 381--382
+[]\T1/ptm/m/n/9 line chart, slic-ing, ge-o-graphic in-for-ma-tion vi-su-al-iza-
+tion,
+ []
+
+<./images/Lidal12Geological.png, id=318, 872.50969pt x 542.025pt>
+File: ./images/Lidal12Geological.png Graphic file (type png)
+
+<use ./images/Lidal12Geological.png>
+Package pdftex.def Info: ./images/Lidal12Geological.png used on input line 388.
+
+(pdftex.def)             Requested size: 199.16928pt x 123.72855pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[7pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.396 \item \textit
+                   {The Concept:} Lundblad and Jern present Geovisual analyt...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) ha
+s been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.396 \item \textit
+                   {The Concept:} Lundblad and Jern present Geovisual analyt...
+ <C:/Users/admin/Downloads/EuroVis2016FullPapers_latex2e/egPublStyle-EuroVis201
+6/images/eccles2007.png> <C:/Users/admin/Downloads/EuroVis2016FullPapers_latex2
+e/egPublStyle-EuroVis2016/images/Lidal12Geological.png>]
+<./images/lun2013.jpg, id=357, 655.69969pt x 368.87813pt>
+File: ./images/lun2013.jpg Graphic file (type jpg)
+
+<use ./images/lun2013.jpg>
+Package pdftex.def Info: ./images/lun2013.jpg used on input line 415.
+(pdftex.def)             Requested size: 199.16928pt x 112.04329pt.
+
+Underfull \hbox (badness 3291) in paragraph at lines 444--446
+[]\T1/ptm/m/n/9 All pa-pers in this sec-tion de-velop meth-ods or struc-ture
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 444--446
+\T1/ptm/m/n/9 [[][][]VBN$[]$04[][]] presents method for im-prov-ing data mem-o-
+ra-bil-ity.
+ []
+
+[8pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.446 
+       <C:/Users/admin/Downloads/EuroVis2016FullPapers_latex2e/egPublStyle-Euro
+Vis2016/images/lun2013.jpg>]
+<./images/viegas2004.png, id=401, 599.99156pt x 485.56406pt>
+File: ./images/viegas2004.png Graphic file (type png)
+
+<use ./images/viegas2004.png>
+Package pdftex.def Info: ./images/viegas2004.png used on input line 476.
+(pdftex.def)             Requested size: 227.62204pt x 184.21248pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[9pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.491 \item V
+             isualization of topic flows: NANA represents the content of a d...
+ <C:/Users/admin/Downloads/EuroVis2016FullPapers_latex2e/egPublStyle-EuroVis201
+6/images/viegas2004.png>]
+<./images/akashi.jpg, id=436, 557.83406pt x 358.33875pt>
+File: ./images/akashi.jpg Graphic file (type jpg)
+
+<use ./images/akashi.jpg>
+Package pdftex.def Info: ./images/akashi.jpg used on input line 503.
+(pdftex.def)             Requested size: 227.62204pt x 146.2145pt.
+
+<./images/fisher.jpg, id=448, 492.33937pt x 227.34938pt>
+File: ./images/fisher.jpg Graphic file (type jpg)
+
+<use ./images/fisher.jpg>
+Package pdftex.def Info: ./images/fisher.jpg used on input line 527.
+(pdftex.def)             Requested size: 199.16928pt x 91.97191pt.
+
+Underfull \hbox (badness 2809) in paragraph at lines 542--543
+\T1/ptm/m/n/9 a in-ter-ac-tive ge-o-graphic vi-su-al-iza-tion with de-tails on-
+
+ []
+
+[10pdfTeX warning (ext4): destination with the same identifier (name{figure.10}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.543 \item G
+             apminder, Human Development Index: The Gapminder visualization ...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.543 \item G
+             apminder, Human Development Index: The Gapminder visualization ...
+ <C:/Users/admin/Downloads/EuroVis2016FullPapers_latex2e/egPublStyle-EuroVis201
+6/images/akashi.jpg> <C:/Users/admin/Downloads/EuroVis2016FullPapers_latex2e/eg
+PublStyle-EuroVis2016/images/fisher.jpg>]
+<./images/segelheer.png, id=491, 1970.86313pt x 855.94781pt>
+File: ./images/segelheer.png Graphic file (type png)
+
+<use ./images/segelheer.png>
+Package pdftex.def Info: ./images/segelheer.png used on input line 557.
+(pdftex.def)             Requested size: 227.62204pt x 98.8564pt.
+
+Underfull \hbox (badness 1533) in paragraph at lines 577--578
+[]\T1/ptm/m/n/9 line charts, maps, ge-o-graphic in-for-ma-tion vi-su-al-iza-tio
+n,
+ []
+
+<./images/vis_rhetoric.png, id=501, 709.14937pt x 1193.96063pt>
+File: ./images/vis_rhetoric.png Graphic file (type png)
+
+<use ./images/vis_rhetoric.png>
+Package pdftex.def Info: ./images/vis_rhetoric.png used on input line 585.
+(pdftex.def)             Requested size: 227.62204pt x 383.22296pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[11pdfTeX warning (ext4): destination with the same identifier (name{figure.12}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.598 \end{enumerate}
+                      <C:/Users/admin/Downloads/EuroVis2016FullPapers_latex2e/e
+gPublStyle-EuroVis2016/images/segelheer.png>]
+<./images/hullman2013.jpg, id=540, 529.22719pt x 331.2375pt>
+File: ./images/hullman2013.jpg Graphic file (type jpg)
+
+<use ./images/hullman2013.jpg>
+Package pdftex.def Info: ./images/hullman2013.jpg used on input line 609.
+(pdftex.def)             Requested size: 227.62204pt x 142.46472pt.
+
+Underfull \hbox (badness 1237) in paragraph at lines 610--610
+[]\T1/ptm/b/n/9 Figure 14: []\T1/ptm/m/it/9 This fig-ure shows the ar-chi-tec-t
+ure of con-tex-ti-fier
+ []
+
+[12pdfTeX warning (ext4): destination with the same identifier (name{figure.13}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.627 \item b
+             ar chart, geo-spatial graph,pdfTeX warning (ext4): destination wit
+h the same identifier (name{figure.14}) has been already used, duplicate ignore
+d
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.627 \item b
+             ar chart, geo-spatial graph, <C:/Users/admin/Downloads/EuroVis2016
+FullPapers_latex2e/egPublStyle-EuroVis2016/images/vis_rhetoric.png> <C:/Users/a
+dmin/Downloads/EuroVis2016FullPapers_latex2e/egPublStyle-EuroVis2016/images/hul
+lman2013.jpg>]
+<./images/hullman2013deeper.jpg, id=570, 591.71063pt x 387.69844pt>
+File: ./images/hullman2013deeper.jpg Graphic file (type jpg)
+
+<use ./images/hullman2013deeper.jpg>
+Package pdftex.def Info: ./images/hullman2013deeper.jpg used on input line 634.
+
+(pdftex.def)             Requested size: 227.62204pt x 149.14308pt.
+
+<./images/figueiras14narrative.png, id=586, 1080.28593pt x 722.7pt>
+File: ./images/figueiras14narrative.png Graphic file (type png)
+
+<use ./images/figueiras14narrative.png>
+Package pdftex.def Info: ./images/figueiras14narrative.png used on input line 6
+72.
+(pdftex.def)             Requested size: 199.16928pt x 133.23424pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[13pdfTeX warning (ext4): destination with the same identifier (name{figure.15}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.684 \item S
+             ixteen participants are asked to study 11 information visualiza...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.16}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.684 \item S
+             ixteen participants are asked to study 11 information visualiza...
+ <C:/Users/admin/Downloads/EuroVis2016FullPapers_latex2e/egPublStyle-EuroVis201
+6/images/hullman2013deeper.jpg> <C:/Users/admin/Downloads/EuroVis2016FullPapers
+_latex2e/egPublStyle-EuroVis2016/images/figueiras14narrative.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 690--691
+[]\T1/ptm/m/n/9 Map, Poster, Pho-tog-ra-phy, Tag Cloud, Draw-ing,
+ []
+
+<./images/fig2014.jpg, id=621, 880.79062pt x 395.97937pt>
+File: ./images/fig2014.jpg Graphic file (type jpg)
+
+<use ./images/fig2014.jpg>
+Package pdftex.def Info: ./images/fig2014.jpg used on input line 697.
+(pdftex.def)             Requested size: 227.62204pt x 102.32986pt.
+
+Underfull \hbox (badness 1460) in paragraph at lines 720--721
+\T1/ptm/m/n/9 based on po-si-tion, size and lo-ca-tion. They are fur-ther
+ []
+
+<./images/Robertson.png, id=637, 1044.90375pt x 793.46437pt>
+File: ./images/Robertson.png Graphic file (type png)
+
+<use ./images/Robertson.png>
+Package pdftex.def Info: ./images/Robertson.png used on input line 732.
+(pdftex.def)             Requested size: 199.16928pt x 151.23198pt.
+ [14pdfTeX warning (ext4): destination with the same identifier (name{figure.17
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.746 \item R
+             earranging Lines: This step takes the slot-based layout of inte...
+ <C:/Users/admin/Downloads/EuroVis2016FullPapers_latex2e/egPublStyle-EuroVis201
+6/images/fig2014.jpg>]
+<./images/Tanahashi2012.png, id=684, 1169.87062pt x 432.11438pt>
+File: ./images/Tanahashi2012.png Graphic file (type png)
+
+<use ./images/Tanahashi2012.png>
+Package pdftex.def Info: ./images/Tanahashi2012.png used on input line 759.
+(pdftex.def)             Requested size: 227.62204pt x 84.07404pt.
+
+<./images/Liu2013Story.png, id=692, 1342.2647pt x 584.1825pt>
+File: ./images/Liu2013Story.png Graphic file (type png)
+
+<use ./images/Liu2013Story.png>
+Package pdftex.def Info: ./images/Liu2013Story.png used on input line 785.
+(pdftex.def)             Requested size: 453.59692pt x 197.41603pt.
+
+<./images/ferreira2013.png, id=702, 370.38374pt x 351.714pt>
+File: ./images/ferreira2013.png Graphic file (type png)
+
+<use ./images/ferreira2013.png>
+Package pdftex.def Info: ./images/ferreira2013.png used on input line 812.
+(pdftex.def)             Requested size: 199.16928pt x 189.13382pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[15pdfTeX warning (ext4): destination with the same identifier (name{figure.18}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.821 \item \textit
+                   {Definition:} Gonzalez and Cleotilde define animation as ...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.19}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.821 \item \textit
+                   {Definition:} Gonzalez and Cleotilde define animation as ...
+ <C:/Users/admin/Downloads/EuroVis2016FullPapers_latex2e/egPublStyle-EuroVis201
+6/images/Robertson.png> <C:/Users/admin/Downloads/EuroVis2016FullPapers_latex2e
+/egPublStyle-EuroVis2016/images/Tanahashi2012.png>] [16pdfTeX warning (ext4): d
+estination with the same identifier (name{figure.20}) has been already used, du
+plicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.836 \item \textit
+                   {The Concept:} This paper introduces animation tool named...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.21}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.836 \item \textit
+                   {The Concept:} This paper introduces animation tool named...
+ <C:/Users/admin/Downloads/EuroVis2016FullPapers_latex2e/egPublStyle-EuroVis201
+6/images/Liu2013Story.png> <C:/Users/admin/Downloads/EuroVis2016FullPapers_late
+x2e/egPublStyle-EuroVis2016/images/ferreira2013.png>]
+<./images/AniVis.png, id=768, 381.67593pt x 289.83281pt>
+File: ./images/AniVis.png Graphic file (type png)
+
+<use ./images/AniVis.png>
+Package pdftex.def Info: ./images/AniVis.png used on input line 863.
+(pdftex.def)             Requested size: 227.62204pt x 172.84846pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[17pdfTeX warning (ext4): destination with the same identifier (name{figure.22}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.879 \end{enumerate}
+                      <C:/Users/admin/Downloads/EuroVis2016FullPapers_latex2e/e
+gPublStyle-EuroVis2016/images/AniVis.png>]
+<./images/bederson99does.png, id=806, 446.26724pt x 325.215pt>
+File: ./images/bederson99does.png Graphic file (type png)
+
+<use ./images/bederson99does.png>
+Package pdftex.def Info: ./images/bederson99does.png used on input line 885.
+(pdftex.def)             Requested size: 199.16928pt x 145.13954pt.
+
+<./images/AnimatedTransitions.png, id=812, 1073.51062pt x 300.3722pt>
+File: ./images/AnimatedTransitions.png Graphic file (type png)
+
+<use ./images/AnimatedTransitions.png>
+Package pdftex.def Info: ./images/AnimatedTransitions.png used on input line 91
+1.
+(pdftex.def)             Requested size: 227.62204pt x 63.68959pt.
+
+Underfull \vbox (badness 3058) has occurred while \output is active []
+
+ [18pdfTeX warning (ext4): destination with the same identifier (name{figure.23
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.941 \item \textit
+                   {The Concept:} Bateman et al. examine whether embellishme...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.24}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.941 \item \textit
+                   {The Concept:} Bateman et al. examine whether embellishme...
+ <C:/Users/admin/Downloads/EuroVis2016FullPapers_latex2e/egPublStyle-EuroVis201
+6/images/bederson99does.png> <C:/Users/admin/Downloads/EuroVis2016FullPapers_la
+tex2e/egPublStyle-EuroVis2016/images/AnimatedTransitions.png>]
+<./images/Bateman2010Effects.png, id=851, 420.06938pt x 637.63219pt>
+File: ./images/Bateman2010Effects.png Graphic file (type png)
+
+<use ./images/Bateman2010Effects.png>
+Package pdftex.def Info: ./images/Bateman2010Effects.png used on input line 957
+.
+(pdftex.def)             Requested size: 199.16928pt x 302.32385pt.
+
+<./images/saket2015.jpg, id=860, 379.4175pt x 423.08063pt>
+File: ./images/saket2015.jpg Graphic file (type jpg)
+
+<use ./images/saket2015.jpg>
+Package pdftex.def Info: ./images/saket2015.jpg used on input line 983.
+(pdftex.def)             Requested size: 170.71652pt x 190.36514pt.
+
+Underfull \vbox (badness 1325) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[19pdfTeX warning (ext4): destination with the same identifier (name{figure.25}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.991 \subsection
+                 {Interpretation for Scientific Visualization} <C:/Users/admin/
+Downloads/EuroVis2016FullPapers_latex2e/egPublStyle-EuroVis2016/images/Bateman2
+010Effects.png>]
+<./images/Scientific_Storytelling_CGA.png, id=900, 663.22781pt x 1018.55531pt>
+File: ./images/Scientific_Storytelling_CGA.png Graphic file (type png)
+
+<use ./images/Scientific_Storytelling_CGA.png>
+Package pdftex.def Info: ./images/Scientific_Storytelling_CGA.png used on input
+ line 1014.
+(pdftex.def)             Requested size: 227.62204pt x 349.56802pt.
+
+<./images/StorytellingTheNextStepForVisualisation.png, id=908, 1434.86063pt x 6
+94.84593pt>
+File: ./images/StorytellingTheNextStepForVisualisation.png Graphic file (type p
+ng)
+ <use ./images/StorytellingTheNextStepForVisualisation.png>
+Package pdftex.def Info: ./images/StorytellingTheNextStepForVisualisation.png u
+sed on input line 1043.
+(pdftex.def)             Requested size: 199.16928pt x 96.44017pt.
+ [20pdfTeX warning (ext4): destination with the same identifier (name{figure.26
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1051 
+        <C:/Users/admin/Downloads/EuroVis2016FullPapers_latex2e/egPublStyle-Eur
+oVis2016/images/saket2015.jpg>]
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[21pdfTeX warning (ext4): destination with the same identifier (name{figure.27}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1068 \newpage
+               pdfTeX warning (ext4): destination with the same identifier (nam
+e{figure.28}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1068 \newpage
+                <C:/Users/admin/Downloads/EuroVis2016FullPapers_latex2e/egPublS
+tyle-EuroVis2016/images/Scientific_Storytelling_CGA.png> <C:/Users/admin/Downlo
+ads/EuroVis2016FullPapers_latex2e/egPublStyle-EuroVis2016/images/StorytellingTh
+eNextStepForVisualisation.png>]
+(C:\Users\admin\Downloads\EuroVis2016FullPapers_latex2e\egPublStyle-EuroVis2016
+\Survey.bbl
+(C:\Users\admin\Downloads\EuroVis2016FullPapers_latex2e\egPublStyle-EuroVis2016
+\Survey.brf)
+\tf@brf=\write4
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+$\T1/pcr/m/n/8 / / www . nytimes . com / 2006 / 04 / 02 / sports / 20060402 _$
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 74--74
+[]\T1/ptm/m/sc/8 Baudisch P., Tan D., Col-lomb M., Rob-bins D.,
+ []
+
+
+Underfull \hbox (badness 5756) in paragraph at lines 107--107
+[]\T1/ptm/m/sc/8 Cox. A.\T1/ptm/m/n/8 :  Bud-get Fore-casts VS. Re-al-ity.  [][
+]$\T1/pcr/m/n/8 http :$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+$\T1/pcr/m/n/8 / / www . nytimes . com / interactive / 2010 / 02 / 02 / us /$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+$\T1/pcr/m/n/8 politics / 20100201-[]budget-[]porcupine-[]graphic . html$[][]\T
+1/ptm/m/n/8 ,
+ []
+
+
+Underfull \hbox (badness 5741) in paragraph at lines 128--128
+[]\T1/ptm/m/sc/8 Dictionary O. E.\T1/ptm/m/n/8 :.  [][]$\T1/pcr/m/n/8 http : / 
+/ www . oed . com / view /$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+[]\T1/ptm/m/sc/8 Dictionary O. E.\T1/ptm/m/n/8 :.  [][]$\T1/pcr/m/n/8 http : / 
+/ www .$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+$\T1/pcr/m/n/8 oxforddictionaries . com / definition / english /$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+[]\T1/ptm/m/sc/8 Dictionary O. E.\T1/ptm/m/n/8 :.  [][]$\T1/pcr/m/n/8 http : / 
+/ www .$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+$\T1/pcr/m/n/8 oxforddictionaries . com / definition / english /$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+[]\T1/ptm/m/sc/8 Dictionary O. E.\T1/ptm/m/n/8 :.  [][]$\T1/pcr/m/n/8 http : / 
+/ www .$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+$\T1/pcr/m/n/8 oxforddictionaries . com / definition / english /$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+[]\T1/ptm/m/sc/8 Dictionary O. E.\T1/ptm/m/n/8 :.  [][]$\T1/pcr/m/n/8 http : / 
+/ www .$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+$\T1/pcr/m/n/8 oxforddictionaries . com / definition / english /$
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 159--159
+[]\T1/ptm/m/sc/8 Dubinko M., Ku-mar R., Mag-nani J., No-vak J.,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--165
+[]\T1/ptm/m/sc/8 D.McCandless\T1/ptm/m/n/8 :  Poll Danc-ing: How Ac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--165
+\T1/ptm/m/n/8 cu-rate are Poll Pre-dic-tions.  [][]$\T1/pcr/m/n/8 http : / / ww
+w .$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--165
+$\T1/pcr/m/n/8 guardian . co . uk / news / datablog / 2010 / may /$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--165
+$\T1/pcr/m/n/8 06 / general-[]election-[]2010-[]opinion-[]polls _$
+ []
+
+Missing character: There is no Ã in font zptmcmr!
+Missing character: There is no © in font zptmcmr!
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
+[]\T1/ptm/m/sc/8 Gapminder\T1/ptm/m/n/8 :  Hu-man De-vel-op-ment Trends,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
+\T1/ptm/m/n/8 2005.  [][]$\T1/pcr/m/n/8 http : / / www . gapminder . org / down
+loads /$
+ []
+
+[22]
+Underfull \hbox (badness 4505) in paragraph at lines 399--399
+$\T1/pcr/m/n/8 org / downloads / human-[]development-[]trends-[]2005/$[][]\T1/p
+tm/m/n/8 , jan
+ []
+
+
+Underfull \hbox (badness 5147) in paragraph at lines 420--420
+[]\T1/ptm/m/sc/8 Ogievetsky. V.\T1/ptm/m/n/8 :  \T1/ptm/m/it/8 Plotweaver xkcd/
+657 cre-ation tool\T1/ptm/m/n/8 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 420--420
+\T1/ptm/m/n/8 2009.  [][]$\T1/pcr/m/n/8 https : / / graphics . stanford . edu /
+ wikis /$
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 447--447
+[]\T1/ptm/m/sc/8 Reference D.\T1/ptm/m/n/8 :.  [][]$\T1/pcr/m/n/8 http : / / ww
+w . thefreedictionary .$
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 453--453
+[]\T1/ptm/m/sc/8 Robertson G., Fer-nan-dez R., Fisher D., Lee B.,
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 467--467
+[]\T1/ptm/m/sc/8 Rosling H.\T1/ptm/m/n/8 :  TED 2006.  [][]$\T1/pcr/m/n/8 http 
+:$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 467--467
+$\T1/pcr/m/n/8 / / www . gapminder . org / video / talks /$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 467--467
+$\T1/pcr/m/n/8 ted-[]2006-[]-[]debunking-[]myth-[]about-[]the-[]third-[]world .
+$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
+[]\T1/ptm/m/sc/8 Rosling H.\T1/ptm/m/n/8 :  TED 2007.  [][]$\T1/pcr/m/n/8 http 
+:$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
+$\T1/pcr/m/n/8 / / www . gapminder . org / video / talks /$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
+$\T1/pcr/m/n/8 ted-[]2007-[]-[]the-[]seemingly-[]impossible-[]is-[]possible .$
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 508--508
+[]\T1/ptm/m/sc/8 Santiago A. D., Sam-paio P. N., Fer-nan-des L. R.\T1/ptm/m/n/8
+ :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--517
+[]\T1/ptm/m/sc/8 scientific vi-su-al-iza-tion stu-dio N.\T1/ptm/m/n/8 :.
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 551--551
+\T1/ptm/m/sc/8 Höhne K. H.\T1/ptm/m/n/8 :  Vir-tual En-doscopy Us-ing Cu-bic Qu
+ickTime-VR
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1074.
+ [24]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1074.
+
+(C:\Users\admin\Downloads\EuroVis2016FullPapers_latex2e\egPublStyle-EuroVis2016
+\Survey.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1074.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1074.
+
+Package rerunfilecheck Info: File `Survey.brf' has not changed.
+(rerunfilecheck)             Checksum: 735992BFFBFD31BDFBB3478DE2463005;11663.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1074.
+ ) 
+Here is how much of TeX's memory you used:
+ 14968 strings out of 493921
+ 264714 string characters out of 3147282
+ 350600 words of memory out of 3000000
+ 17472 multiletter control sequences out of 15000+200000
+ 47576 words of font info for 72 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 56i,12n,55p,1116b,486s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
+w/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Survey.pdf (24 pages, 11368805 bytes).
+PDF statistics:
+ 1326 PDF objects out of 1440 (max. 8388607)
+ 486 named destinations out of 1000 (max. 500000)
+ 153 words of extra memory for PDF output out of 10000 (max. 10000000)
+
