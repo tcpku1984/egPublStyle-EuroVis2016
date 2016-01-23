@@ -278,6 +278,11 @@
 \newblock \emph{Visualization and Computer Graphics, IEEE Transactions on 19},
   12 (2013), 2406--2415.
 
+\bibitem[HJ11]{hansen2011visualization}
+\textsc{Hansen C.~D., Johnson C.~R.}:
+\newblock \emph{Visualization handbook}.
+\newblock Academic Press, 2011.
+
 \bibitem[HM90]{robert}
 \textsc{Haber R.~B., McNabb D.~A.}:
 \newblock {Visualization Idioms: A Conceptual Model for Scientific
@@ -371,6 +376,12 @@
 \textsc{Lidal E.~M., Natali M., Patel D., Hauser H., Viola I.}:
 \newblock {Geological Storytelling}.
 \newblock \emph{Computers \& Graphics 37}, 5 (2013), 445--459.
+
+\bibitem[LS08]{lu2008interactive}
+\textsc{Lu A., Shen H.-W.}:
+\newblock Interactive storyboard for overall time-varying data visualization.
+\newblock In \emph{Visualization Symposium, 2008. PacificVIS'08. IEEE Pacific}
+  (2008), IEEE, pp.~143--150.
 
 \bibitem[LWW{\etalchar{*}}13]{shixia}
 \textsc{Liu S., Wu Y., Wei E., Liu M., Liu Y.}:
