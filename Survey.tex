@@ -46,6 +46,7 @@
 \usepackage{tikz}
 \usepackage{float}
 \usepackage{capt-of}
+\usepackage{hhline}
 
 
 \begin{document}
@@ -112,29 +113,29 @@ Although storytelling has been developing in other fields for years, in visualiz
 \centering
 \caption{Our classification of the storytelling literature} 
 \centering 
-\begin{tabular}{|c| p{4cm}| p{5cm}|p{4cm}|} 
-\hline
+\begin{tabular}{c|| p{4cm}| p{5cm}|p{4cm}} 
+%\hline
  & Scientific Visualization & Information Visualization & Geo-spatial Visualization\\ 
-\hline
-Authorship & Wohlfart, 2006 \cite{wohlfat}\par Wohlfart et al.\, 2007\cite{wohlfart2} \par & Gershon et al.\, 2001\cite{Gershon2}\par Cruz et al.\, 2011 \cite{cruz2011} \par Kuhn et al.\, 2012\cite{kuhn2012} \par  Lee et al.\, 2013\cite{lee2013} \par & Eccles et al.\, 2007\cite{eccles2007} \par  Lidal et al.\, 2012 \cite{lidal}  \par Lidal et al.\, 2013\cite{Lidal2013} \par Lundblad et al.\, 2013\cite{lundblad2013} \par\\
+ \hhline{====}
+Authorship & Wohlfart, 2006 \cite{wohlfat}\par Wohlfart et al.\, 2007\cite{wohlfart2} \par Lu and Shen, 2008\cite{lu2008interactive} \par & Gershon et al.\, 2001\cite{Gershon2}\par Cruz et al.\, 2011 \cite{cruz2011} \par Kuhn et al.\, 2012\cite{kuhn2012} \par  Lee et al.\, 2013\cite{lee2013} \par & Eccles et al.\, 2007\cite{eccles2007} \par  Lidal et al.\, 2012 \cite{lidal}  \par Lidal et al.\, 2013\cite{Lidal2013} \par Lundblad et al.\, 2013\cite{lundblad2013} \par\\
 \hline 
 Narrative & & Viegas et al.\, 2004\cite{viegas2004}\par Akashi et al.\, 2007\cite{akaishi2007narrative} \par Fisher et al.\, 2008\cite{fisher} \par Segel and Heer, 2010\cite{segal}\par  Hullman et al.\, 2011\cite{hullman} \par Hullman et al.\, 2013 \cite{hullman2013} \par Hullman et al.\, 2013 \cite{hullman2013deeper} \par Figueiras, 2014 \cite{figueiras} \par Figueiras, 2014 \cite{figueiras2014tell}&\\ 
 \hline
-Static Transitions & & Rebortson, 2008\cite{Rebortson} \par  Tanhashi et al.\, 2012\cite{Tanahashi} \par Shixia et al.\, 2013\cite{shixia} & Ferreira et al.\, 2013\cite{ferreira2013} \par \\ 
+Static Transitions & & Rebortson, 2008\cite{Rebortson} \par  Chen et al.\,2012\cite{chen2012visual} \par Tanhashi et al.\, 2012\cite{Tanahashi} \par Shixia et al.\, 2013\cite{shixia} & Ferreira et al.\, 2013\cite{ferreira2013} \par \\ 
 \hline
 Animated Transitions & Akiba et al.\, 2010\cite{Akiba} \par & Bederson and Boltman, 1999\cite{bedrson}\par Heer et al.\, 2007 \cite{heer2007} \par &\\
 \hline
 Memorability & &  Bateman et al.\, 2010\cite{bateman} \par & Saket et al.\, 2015 \cite{saket2015} \par\\ 
 \hline
-interpretation &  Ma et al.\, 2012\cite{sci} \par  &  Kosara and Mackinlay, 2013\cite{Kosara} \par & \\
-\hline
+Interpretation &  Ma et al.\, 2012\cite{sci} \par  &  Kosara and Mackinlay, 2013\cite{Kosara} \par & \\
+%\hline
 \end{tabular}
 \label{table:classification1} 
 \end{table*}
 
 \begin{figure*}
 \includegraphics[width=0.95\textwidth]{./images/table2}
-\captionof{figure}{\textit{This table show the visualization techniques illustrated in each paper.}}\label{table}
+\captionof{figure}{\textit{A table summarizing the visualization techniques used in each paper. The papers are ordered corresponding to the order in which they appear in the survey.}}\label{table}
 \end{figure*}
 
 \subsection{Classification of Literature}
@@ -242,15 +243,15 @@ Lu and Shen propose an approach to reducing the number of time
 steps that users need to visualize individually to understand essential data features by selecting representative datasets. They design a flexible framework for quantifying data differences using multiple dissimilarity matrices \cite{lu2008interactive}.
 %\item \textit{System Architecture:}
 \begin{enumerate}
-\item Data relationship measurement: a new visualization approach that integrates data analysis results, which are achieved by measuring the
+\item Data relationship measurement: Lu and Shen \cite{lu2008interactive} a new visualization approach that filters data analysis results, which is achieved by measuring the
 degree of data similarity/difference and selecting important datasets that contain essential data features \cite{lu2008interactive}. 
-\item Representative datasets analysis: It interactively selects representative
-datasets that include a significant portion of features for scientific data, whose data distribution requires more analysis than time
-sequence, reduces the amount of data to visualize and still keeps the essential data information, which can be used to improve the efficiency of time-varying data visualization \cite{lu2008interactive}.
-\item Interactive storyboard: Interactive storyboard is to visualize and explore overall contents of time-varying datasets through composing suitable amount of information that can be efficiently understood by users \cite{lu2008interactive}. 
+\item Representative datasets analysis: They interactively select representative
+datasets that include a significant portion of features of scientific data, whose data distribution requires more analysis than time
+sequence, reduces the amount of data to necessarily visualize and still keeps the essential data information. This can be used to improve the efficiency of time-varying data visualization \cite{lu2008interactive}.
+\item Interactive storyboard: An interactive storyboard is used to visualize and explore the overall content of time-varying datasets through composing an appropriate amount of information that can be efficiently understood by users \cite{lu2008interactive}. 
 \end{enumerate}
 %\item \textit{Related Work:}  
-Lu and Shen are based on previous work of time-vary visualization \cite{hansen2011visualization} and design a general method for comparing data dissimilarities, which does not require a dense sampling frequency to capture the object evolution and is not limited by specific feature models, such as geometry or interval volumes, and their attribute designs \cite{lu2008interactive}. 
+Lu and Shen is based on the previous work of time-vary visualization \cite{hansen2011visualization} and design a general method for comparing data dissimilarities, which does not require a dense sampling frequency to capture the object evolution and is not limited to specific feature models, such as geometry or interval volumes, and their attribute designs \cite{lu2008interactive}. 
 %\item \textit{In this paper, the following visualization techniques are illustrated :} 
 %\begin{enumerate}
 %\item illustrative volume rendering, animation
@@ -826,7 +827,7 @@ This paper based on earlier work by Tversky et al.\ \cite{tversky} and Baudisch 
 %\textbf{Title:} \textit{Visual storylines: Semantic visualization of movie sequence}
 %\begin{enumerate}
 %\item \textit{Definition:} 
-Visual Storylines, is designed to summarize video storylines in an image composition while preserving the style of the original videos \cite{chen2012visual}.
+Visual Storylines, by Chen et al.\, is designed to summarize video storylines in an image composition while preserving the style of the original videos \cite{chen2012visual}.
 %\item \textit{The Concept:} 
 Chen et al.\ present a new Visual Storylines method to assist viewers to understand important video contents by
 revealing essential information about video story units and their relationships. \cite{chen2012visual}.
@@ -837,7 +838,7 @@ into multiple sets of shot sequences and determining their relationships. See Fi
 \item Generation of visual storylines: Second step is to visualize a movie sequence in a new type of static visualization by using a multi-level visual storyline approach, which selects and synthesizes important story segments according to their relationships in a storyline.
 \end{enumerate}
 %\item \textit{Related Work:}  
-Chen et al.\ are based on the work of video summarization \cite{yahiaoui2001automatic} and first clusters video shots according
+Chen et al.\ is based on the work of video summarization \cite{yahiaoui2001automatic} and first clusters video shots according
 to both visual and audio data to form semantic video segments.
 %\item \textit{In this paper, the following visualization techniques are illustrated :} 
 %\begin{enumerate}
