@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.7.24)  2 FEB 2016 15:12
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.7.24)  2 FEB 2016 15:48
 entering extended mode
 **Survey.tex
 (C:\Users\admin\Desktop\egPublStyle-EuroVis2016\Survey.tex
@@ -615,12 +615,12 @@ Underfull \hbox (badness 1902) in paragraph at lines 100--101
 []\T1/ptm/m/n/9 Data en-hance-ment and deriva-tion: Data en-hance-ment and
  []
 
-<./images/table2.jpg, id=74, 902.6222pt x 577.40718pt>
+<./images/table2.jpg, id=74, 903.375pt x 579.66562pt>
 File: ./images/table2.jpg Graphic file (type jpg)
 
 <use ./images/table2.jpg>
 Package pdftex.def Info: ./images/table2.jpg used on input line 138.
-(pdftex.def)             Requested size: 478.79846pt x 306.28867pt.
+(pdftex.def)             Requested size: 478.79846pt x 307.23015pt.
 
 Underfull \hbox (badness 2027) in paragraph at lines 143--145
 \T1/ptm/m/n/9 The Sto-ry-telling lit-er-a-ture can be di-vided into var-i-ous s
@@ -658,7 +658,7 @@ Underfull \hbox (badness 1803) in paragraph at lines 200--211
  []
 
 
-Underfull \vbox (badness 2903) has occurred while \output is active []
+Underfull \vbox (badness 2401) has occurred while \output is active []
 
  [4pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
  has been already used, duplicate ignored
@@ -1359,7 +1359,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1216.
 Here is how much of TeX's memory you used:
  14776 strings out of 493921
  262989 string characters out of 3147282
- 353703 words of memory out of 3000000
+ 353702 words of memory out of 3000000
  17516 multiletter control sequences out of 15000+200000
  47576 words of font info for 72 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -1371,7 +1371,7 @@ s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX
 w/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.
 pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program F
 iles/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Survey.pdf (23 pages, 11706674 bytes).
+Output written on Survey.pdf (23 pages, 11722892 bytes).
 PDF statistics:
  1063 PDF objects out of 1200 (max. 8388607)
  244 named destinations out of 1000 (max. 500000)
