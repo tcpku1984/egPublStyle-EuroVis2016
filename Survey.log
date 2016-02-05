@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.7.24)  2 FEB 2016 15:48
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.12)  5 FEB 2016 09:22
 entering extended mode
 **Survey.tex
-(C:\Users\admin\Desktop\egPublStyle-EuroVis2016\Survey.tex
+(D:\egPublStyle-EuroVis2016\Survey.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,7 +13,7 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-(C:\Users\admin\Desktop\egPublStyle-EuroVis2016\egpubl.cls
+(D:\egPublStyle-EuroVis2016\egpubl.cls
 Document Class: egpubl 2015/12/03 Document Style for EG Publications v3.63
 \c@table=\count79
 \c@figure=\count80
@@ -33,8 +33,8 @@ Document Class: egpubl 2015/12/03 Document Style for EG Publications v3.63
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(C:\Users\admin\Desktop\egPublStyle-EuroVis2016\Survey.lbl))
-(C:\Users\admin\Desktop\egPublStyle-EuroVis2016\eurovis2016.sty)
+(D:\egPublStyle-EuroVis2016\Survey.lbl))
+(D:\egPublStyle-EuroVis2016\eurovis2016.sty)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -189,7 +189,7 @@ File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.sty"
 Package: t1enc 1994/06/01 Standard LaTeX package
 )
-(C:\Users\admin\Desktop\egPublStyle-EuroVis2016\dfadobe.sty
+(D:\egPublStyle-EuroVis2016\dfadobe.sty
 Package: dfadobe 2000/03/05 v1.4 T1-encoded Times (except symbols), Courier, He
 lvetica (at 90\%) + math package
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 14.
@@ -219,18 +219,14 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 20.
-
-(C:\Users\admin\Desktop\egPublStyle-EuroVis2016\dfT1ptm.fd
+ (D:\egPublStyle-EuroVis2016\dfT1ptm.fd
 File: dfT1ptm.fd 2000/03/05 DF - Fontinst v1.6 font definitions for T1/ptm.
-)
-(C:\Users\admin\Desktop\egPublStyle-EuroVis2016\dfT1phv.fd
+) (D:\egPublStyle-EuroVis2016\dfT1phv.fd
 File: dfT1phv.fd 1997/12/02 Fontinst v1.6 font definitions for T1/phv scaled to
  90\%.
-)
-(C:\Users\admin\Desktop\egPublStyle-EuroVis2016\dfT1pcr.fd
+) (D:\egPublStyle-EuroVis2016\dfT1pcr.fd
 File: dfT1pcr.fd 2000/03/05 DF - Fontinst v1.6 font definitions for T1/pcr.
-))
-(C:\Users\admin\Desktop\egPublStyle-EuroVis2016\egweblnk.sty
+)) (D:\egPublStyle-EuroVis2016\egweblnk.sty
 Package: egweblnk 2004/10/29 v2.2 DF's support for http web links in class egpu
 bl
 )
@@ -516,7 +512,7 @@ Package: capt-of 2009/12/29 v0.2 standard captions outside of floats
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\hhline.sty"
 Package: hhline 1994/05/23 v2.03 Table rule package (DPC)
 )
-(C:\Users\admin\Desktop\egPublStyle-EuroVis2016\Survey.aux)
+(D:\egPublStyle-EuroVis2016\Survey.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
 LaTeX Font Info:    ... okay on input line 52.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
@@ -667,7 +663,7 @@ Underfull \vbox (badness 2401) has occurred while \output is active []
                                                   \fi \fi 
 l.222 \item S
              tory Authoring Process: The story authoring process contains tw...
- <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/table2.jpg>]
+ <D:/egPublStyle-EuroVis2016/images/table2.jpg>]
 <./images/wohlfart07storyTelling.png, id=201, 487.06969pt x 578.91281pt>
 File: ./images/wohlfart07storyTelling.png Graphic file (type png)
 
@@ -701,9 +697,9 @@ s been already used, duplicate ignored
                                                   \fi \fi 
 l.281 \item E
              nemy positions surround a school: This example presents a situa...
- <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/VRVis-Wohlfart-Michael.
-png> <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/wohlfart07storyTell
-ing.png>] <./images/cruz2011.jpg, id=236, 660.21657pt x 625.58719pt>
+ <D:/egPublStyle-EuroVis2016/images/VRVis-Wohlfart-Michael.png> <D:/egPublStyle
+-EuroVis2016/images/wohlfart07storyTelling.png>]
+<./images/cruz2011.jpg, id=236, 660.21657pt x 625.58719pt>
 File: ./images/cruz2011.jpg Graphic file (type jpg)
 
 <use ./images/cruz2011.jpg>
@@ -734,8 +730,8 @@ r (name{figure.5}) has been already used, duplicate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.362 \end{enumerate}
-                      <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/lu
-2008.png> <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/cruz2011.jpg>]
+                      <D:/egPublStyle-EuroVis2016/images/lu2008.png> <D:/egPubl
+Style-EuroVis2016/images/cruz2011.jpg>]
 <./images/lee2013.jpg, id=273, 969.6225pt x 295.1025pt>
 File: ./images/lee2013.jpg Graphic file (type jpg)
 
@@ -768,9 +764,9 @@ s been already used, duplicate ignored
                                                   \fi \fi 
 l.428 \item T
              he StoryTree: This is a tree graph representation of all the ge...
- <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/kuhn2012.png> <C:/Users
-/admin/Desktop/egPublStyle-EuroVis2016/images/lee2013.jpg>]
-<./images/Lidal12Geological.png, id=304, 872.50969pt x 542.025pt>
+ <D:/egPublStyle-EuroVis2016/images/kuhn2012.png> <D:/egPublStyle-EuroVis2016/i
+mages/lee2013.jpg>]
+<./images/Lidal12Geological.png, id=305, 872.50969pt x 542.025pt>
 File: ./images/Lidal12Geological.png Graphic file (type png)
 
 <use ./images/Lidal12Geological.png>
@@ -778,7 +774,7 @@ Package pdftex.def Info: ./images/Lidal12Geological.png used on input line 445.
 
 (pdftex.def)             Requested size: 199.16928pt x 123.72855pt.
 
-<./images/lun2013.jpg, id=315, 655.69969pt x 368.87813pt>
+<./images/lun2013.jpg, id=316, 655.69969pt x 368.87813pt>
 File: ./images/lun2013.jpg Graphic file (type jpg)
 
 <use ./images/lun2013.jpg>
@@ -802,15 +798,15 @@ l.484
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.484 
-       <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/eccles2007.png> <
-C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/Lidal12Geological.png> <C
-:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/lun2013.jpg>]
+       <D:/egPublStyle-EuroVis2016/images/eccles2007.png> <D:/egPublStyle-EuroV
+is2016/images/Lidal12Geological.png> <D:/egPublStyle-EuroVis2016/images/lun2013
+.jpg>]
 Underfull \hbox (badness 1033) in paragraph at lines 506--508
 \T1/ptm/m/n/9 how to im-prove nar-ra-tive sto-ry-telling vi-su-al-iza-tion. Vie
 -gas et
  []
 
-<./images/viegas2004.png, id=351, 599.99156pt x 485.56406pt>
+<./images/viegas2004.png, id=352, 599.99156pt x 485.56406pt>
 File: ./images/viegas2004.png Graphic file (type png)
 
 <use ./images/viegas2004.png>
@@ -821,7 +817,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[9] <./images/fisher.jpg, id=373, 492.33937pt x 227.34938pt>
+[9] <./images/fisher.jpg, id=374, 492.33937pt x 227.34938pt>
 File: ./images/fisher.jpg Graphic file (type jpg)
 
 <use ./images/fisher.jpg>
@@ -839,30 +835,30 @@ r (name{figure.12}) has been already used, duplicate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.612 \end{enumerate}
-                      <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/vi
-egas2004.png> <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/fisher.jpg
->] <./images/segelheer.png, id=407, 1970.86313pt x 855.94781pt>
+                      <D:/egPublStyle-EuroVis2016/images/viegas2004.png> <D:/eg
+PublStyle-EuroVis2016/images/fisher.jpg>]
+<./images/segelheer.png, id=408, 1970.86313pt x 855.94781pt>
 File: ./images/segelheer.png Graphic file (type png)
 
 <use ./images/segelheer.png>
 Package pdftex.def Info: ./images/segelheer.png used on input line 625.
 (pdftex.def)             Requested size: 227.62204pt x 98.8564pt.
 
-<./images/vis_rhetoric.png, id=417, 709.14937pt x 1193.96063pt>
+<./images/vis_rhetoric.png, id=418, 709.14937pt x 1193.96063pt>
 File: ./images/vis_rhetoric.png Graphic file (type png)
 
 <use ./images/vis_rhetoric.png>
 Package pdftex.def Info: ./images/vis_rhetoric.png used on input line 655.
 (pdftex.def)             Requested size: 227.62204pt x 383.22296pt.
 
-<./images/hullman2013.jpg, id=428, 529.22719pt x 331.2375pt>
+<./images/hullman2013.jpg, id=429, 529.22719pt x 331.2375pt>
 File: ./images/hullman2013.jpg Graphic file (type jpg)
 
 <use ./images/hullman2013.jpg>
 Package pdftex.def Info: ./images/hullman2013.jpg used on input line 681.
 (pdftex.def)             Requested size: 227.62204pt x 142.46472pt.
 
-<./images/hullman2013deeper.jpg, id=436, 591.71063pt x 387.69844pt>
+<./images/hullman2013deeper.jpg, id=437, 591.71063pt x 387.69844pt>
 File: ./images/hullman2013deeper.jpg Graphic file (type jpg)
 
 <use ./images/hullman2013deeper.jpg>
@@ -880,9 +876,9 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.712 
-       <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/segelheer.png>]
-[12pdfTeX warning (ext4): destination with the same identifier (name{figure.14}
-) has been already used, duplicate ignored
+       <D:/egPublStyle-EuroVis2016/images/segelheer.png>] [12pdfTeX warning (ex
+t4): destination with the same identifier (name{figure.14}) has been already us
+ed, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -899,15 +895,15 @@ l.732
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.732 
-       <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/vis_rhetoric.png>
- <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/hullman2013.jpg> <C:/Us
-ers/admin/Desktop/egPublStyle-EuroVis2016/images/hullman2013deeper.jpg>]
+       <D:/egPublStyle-EuroVis2016/images/vis_rhetoric.png> <D:/egPublStyle-Eur
+oVis2016/images/hullman2013.jpg> <D:/egPublStyle-EuroVis2016/images/hullman2013
+deeper.jpg>]
 Underfull \hbox (badness 1616) in paragraph at lines 739--746
 \T1/ptm/m/n/9 Figueiras is based on pre-vi-ous work of sto-ry-telling [[][][]HD
 11[][]]
  []
 
-<./images/figueiras14narrative.png, id=477, 1080.28593pt x 722.7pt>
+<./images/figueiras14narrative.png, id=478, 1080.28593pt x 722.7pt>
 File: ./images/figueiras14narrative.png Graphic file (type png)
 
 <use ./images/figueiras14narrative.png>
@@ -915,7 +911,7 @@ Package pdftex.def Info: ./images/figueiras14narrative.png used on input line 7
 50.
 (pdftex.def)             Requested size: 199.16928pt x 133.23424pt.
 
-<./images/fig2014.jpg, id=486, 398.23781pt x 261.97874pt>
+<./images/fig2014.jpg, id=487, 398.23781pt x 261.97874pt>
 File: ./images/fig2014.jpg Graphic file (type jpg)
 
 <use ./images/fig2014.jpg>
@@ -940,23 +936,23 @@ as been already used, duplicate ignored
                                                   \fi \fi 
 l.800 \item A
              lternative multi-dimensional trend visualization: A trace visua...
- <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/figueiras14narrative.pn
-g> <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/fig2014.jpg>]
-<./images/Robertson.png, id=516, 1044.90375pt x 793.46437pt>
+ <D:/egPublStyle-EuroVis2016/images/figueiras14narrative.png> <D:/egPublStyle-E
+uroVis2016/images/fig2014.jpg>]
+<./images/Robertson.png, id=517, 1044.90375pt x 793.46437pt>
 File: ./images/Robertson.png Graphic file (type png)
 
 <use ./images/Robertson.png>
 Package pdftex.def Info: ./images/Robertson.png used on input line 814.
 (pdftex.def)             Requested size: 199.16928pt x 151.23198pt.
 
-<./images/chen2012.jpg, id=523, 246.1697pt x 156.585pt>
+<./images/chen2012.jpg, id=524, 246.1697pt x 156.585pt>
 File: ./images/chen2012.jpg Graphic file (type jpg)
 
 <use ./images/chen2012.jpg>
 Package pdftex.def Info: ./images/chen2012.jpg used on input line 844.
 (pdftex.def)             Requested size: 227.62204pt x 144.79344pt.
 
-<./images/Tanahashi2012.png, id=534, 1169.87062pt x 432.11438pt>
+<./images/Tanahashi2012.png, id=535, 1169.87062pt x 432.11438pt>
 File: ./images/Tanahashi2012.png Graphic file (type png)
 
 <use ./images/Tanahashi2012.png>
@@ -980,17 +976,16 @@ l.888
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.888 
-       <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/Robertson.png> <C
-:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/chen2012.jpg> <C:/Users/ad
-min/Desktop/egPublStyle-EuroVis2016/images/Tanahashi2012.png>]
-<./images/Liu2013Story.png, id=559, 1342.2647pt x 584.1825pt>
+       <D:/egPublStyle-EuroVis2016/images/Robertson.png> <D:/egPublStyle-EuroVi
+s2016/images/chen2012.jpg> <D:/egPublStyle-EuroVis2016/images/Tanahashi2012.png
+>] <./images/Liu2013Story.png, id=560, 1342.2647pt x 584.1825pt>
 File: ./images/Liu2013Story.png Graphic file (type png)
 
 <use ./images/Liu2013Story.png>
 Package pdftex.def Info: ./images/Liu2013Story.png used on input line 901.
 (pdftex.def)             Requested size: 453.59692pt x 197.41603pt.
 
-<./images/ferreira2013.png, id=569, 370.38374pt x 351.714pt>
+<./images/ferreira2013.png, id=570, 370.38374pt x 351.714pt>
 File: ./images/ferreira2013.png Graphic file (type png)
 
 <use ./images/ferreira2013.png>
@@ -1007,15 +1002,15 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.972 
-       <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/ferreira2013.png>
-] <./images/AniVis.png, id=605, 381.67593pt x 289.83281pt>
+       <D:/egPublStyle-EuroVis2016/images/ferreira2013.png>]
+<./images/AniVis.png, id=606, 381.67593pt x 289.83281pt>
 File: ./images/AniVis.png Graphic file (type png)
 
 <use ./images/AniVis.png>
 Package pdftex.def Info: ./images/AniVis.png used on input line 985.
 (pdftex.def)             Requested size: 227.62204pt x 172.84846pt.
 
-<./images/bederson99does.png, id=612, 446.26724pt x 325.215pt>
+<./images/bederson99does.png, id=613, 446.26724pt x 325.215pt>
 File: ./images/bederson99does.png Graphic file (type png)
 
 <use ./images/bederson99does.png>
@@ -1033,9 +1028,9 @@ l.1022
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.1022 
-        <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/Liu2013Story.png
-> <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/AniVis.png>]
-<./images/AnimatedTransitions.png, id=631, 1073.51062pt x 300.3722pt>
+        <D:/egPublStyle-EuroVis2016/images/Liu2013Story.png> <D:/egPublStyle-Eu
+roVis2016/images/AniVis.png>]
+<./images/AnimatedTransitions.png, id=632, 1073.51062pt x 300.3722pt>
 File: ./images/AnimatedTransitions.png Graphic file (type png)
 
 <use ./images/AnimatedTransitions.png>
@@ -1059,9 +1054,9 @@ l.1077
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.1077 
-        <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/bederson99does.p
-ng> <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/AnimatedTransitions.
-png>] <./images/Bateman2010Effects.png, id=658, 420.06938pt x 637.63219pt>
+        <D:/egPublStyle-EuroVis2016/images/bederson99does.png> <D:/egPublStyle-
+EuroVis2016/images/AnimatedTransitions.png>]
+<./images/Bateman2010Effects.png, id=659, 420.06938pt x 637.63219pt>
 File: ./images/Bateman2010Effects.png Graphic file (type png)
 
 <use ./images/Bateman2010Effects.png>
@@ -1069,7 +1064,7 @@ Package pdftex.def Info: ./images/Bateman2010Effects.png used on input line 109
 0.
 (pdftex.def)             Requested size: 199.16928pt x 302.32385pt.
 
-<./images/saket2015.jpg, id=667, 379.4175pt x 423.08063pt>
+<./images/saket2015.jpg, id=668, 379.4175pt x 423.08063pt>
 File: ./images/saket2015.jpg Graphic file (type jpg)
 
 <use ./images/saket2015.jpg>
@@ -1089,14 +1084,14 @@ as been already used, duplicate ignored
                                                   \fi \fi 
 l.1138 \item V
               isualization at a Science Museum: The science museum presents ...
- <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/Bateman2010Effects.png>
- <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/saket2015.jpg>]
+ <D:/egPublStyle-EuroVis2016/images/Bateman2010Effects.png> <D:/egPublStyle-Eur
+oVis2016/images/saket2015.jpg>]
 Underfull \hbox (badness 1248) in paragraph at lines 1138--1139
 []\T1/ptm/m/n/9 Visualization at a Sci-ence Mu-seum: The sci-ence mu-seum
  []
 
 
-<./images/Scientific_Storytelling_CGA.png, id=691, 663.22781pt x 1018.55531pt>
+<./images/Scientific_Storytelling_CGA.png, id=692, 663.22781pt x 1018.55531pt>
 File: ./images/Scientific_Storytelling_CGA.png Graphic file (type png)
 
 <use ./images/Scientific_Storytelling_CGA.png>
@@ -1104,7 +1099,7 @@ Package pdftex.def Info: ./images/Scientific_Storytelling_CGA.png used on input
  line 1153.
 (pdftex.def)             Requested size: 227.62204pt x 349.56802pt.
 
-<./images/StorytellingTheNextStepForVisualisation.png, id=699, 1434.86063pt x 6
+<./images/StorytellingTheNextStepForVisualisation.png, id=700, 1434.86063pt x 6
 94.84593pt>
 File: ./images/StorytellingTheNextStepForVisualisation.png Graphic file (type p
 ng)
@@ -1126,9 +1121,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.1195 
-        <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/Scientific_Story
-telling_CGA.png>] (C:\Users\admin\Desktop\egPublStyle-EuroVis2016\Survey.bbl
-(C:\Users\admin\Desktop\egPublStyle-EuroVis2016\Survey.brf)
+        <D:/egPublStyle-EuroVis2016/images/Scientific_Storytelling_CGA.png>]
+(D:\egPublStyle-EuroVis2016\Survey.bbl (D:\egPublStyle-EuroVis2016\Survey.brf)
 \tf@brf=\write4
 
 Underfull \hbox (badness 10000) in paragraph at lines 66--66
@@ -1163,8 +1157,8 @@ $\T1/pcr/m/n/8 politics / 20100201-[]budget-[]porcupine-[]graphic . html$[][]\T
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.112 
-       <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/StorytellingTheNe
-xtStepForVisualisation.png>]
+       <D:/egPublStyle-EuroVis2016/images/StorytellingTheNextStepForVisualisati
+on.png>]
 Underfull \hbox (badness 5741) in paragraph at lines 133--133
 []\T1/ptm/m/sc/8 Dictionary O. E.\T1/ptm/m/n/8 :.  [][]$\T1/pcr/m/n/8 http : / 
 / www . oed . com / view /$
@@ -1259,85 +1253,119 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [21]
-Underfull \hbox (badness 4505) in paragraph at lines 421--421
-$\T1/pcr/m/n/8 org / downloads / human-[]development-[]trends-[]2005/$[][]\T1/p
-tm/m/n/8 , jan
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
+[]\T1/ptm/m/sc/8 M. Green H. War-rell S. T., Bernard
  []
 
 
-Underfull \hbox (badness 5147) in paragraph at lines 442--442
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
+\T1/ptm/m/sc/8 S., For-men-tini M.\T1/ptm/m/n/8 :  Afghanistan: Be-hind the Fro
+nt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
+\T1/ptm/m/n/8 Line.  [][]$\T1/pcr/m/n/8 http : / / www . gapminder . org / down
+loads /$
+ []
+
+
+Underfull \hbox (badness 5147) in paragraph at lines 449--449
 []\T1/ptm/m/sc/8 Ogievetsky. V.\T1/ptm/m/n/8 :  \T1/ptm/m/it/8 Plotweaver xkcd/
 657 cre-ation tool\T1/ptm/m/n/8 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--442
+Underfull \hbox (badness 10000) in paragraph at lines 449--449
 \T1/ptm/m/n/8 2009.  [][]$\T1/pcr/m/n/8 https : / / graphics . stanford . edu /
  wikis /$
  []
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 469--469
+Underfull \hbox (badness 1472) in paragraph at lines 476--476
 []\T1/ptm/m/sc/8 Reference D.\T1/ptm/m/n/8 :.  [][]$\T1/pcr/m/n/8 http : / / ww
 w . thefreedictionary .$
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 475--475
+Underfull \hbox (badness 1152) in paragraph at lines 482--482
 []\T1/ptm/m/sc/8 Robertson G., Fer-nan-dez R., Fisher D., Lee B.,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 489--489
+Underfull \hbox (badness 10000) in paragraph at lines 496--496
 []\T1/ptm/m/sc/8 Rosling H.\T1/ptm/m/n/8 :  TED 2006.  [][]$\T1/pcr/m/n/8 http 
 :$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 489--489
+Underfull \hbox (badness 10000) in paragraph at lines 496--496
 $\T1/pcr/m/n/8 / / www . gapminder . org / video / talks /$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 489--489
+Underfull \hbox (badness 10000) in paragraph at lines 496--496
 $\T1/pcr/m/n/8 ted-[]2006-[]-[]debunking-[]myth-[]about-[]the-[]third-[]world .
 $
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 496--496
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
 []\T1/ptm/m/sc/8 Rosling H.\T1/ptm/m/n/8 :  TED 2007.  [][]$\T1/pcr/m/n/8 http 
 :$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 496--496
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
 $\T1/pcr/m/n/8 / / www . gapminder . org / video / talks /$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 496--496
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
 $\T1/pcr/m/n/8 ted-[]2007-[]-[]the-[]seemingly-[]impossible-[]is-[]possible .$
  []
 
 
-Underfull \hbox (badness 1454) in paragraph at lines 530--530
+Underfull \hbox (badness 4981) in paragraph at lines 517--517
+[]\T1/ptm/m/sc/8 Singer A.\T1/ptm/m/n/8 :  Data Vi-su-al-iza-tion: Your Se-cret
+ Weapon
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--517
+\T1/ptm/m/n/8 in Sto-ry-telling and Per-sua-sion.  [][]$\T1/pcr/m/n/8 https : /
+ / www . clickz .$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--517
+$\T1/pcr/m/n/8 com / clickz / column / 2378704 / data-[]visualization /$
+ []
+
+
+Overfull \hbox (9.45009pt too wide) in paragraph at lines 517--517
+$\T1/pcr/m/n/8 your-[]secret-[]weapon-[]in-[]storytelling-[]and-[]persuasion$[]
+[]\T1/ptm/m/n/8 ,
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 539--539
 []\T1/ptm/m/sc/8 Santiago A. D., Sam-paio P. N., Fer-nan-des L. R.\T1/ptm/m/n/8
  :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 539--539
+Underfull \hbox (badness 10000) in paragraph at lines 548--548
 []\T1/ptm/m/sc/8 scientific vi-su-al-iza-tion stu-dio N.\T1/ptm/m/n/8 :.
  []
 
-
-Underfull \hbox (badness 1178) in paragraph at lines 573--573
+[22]
+Underfull \hbox (badness 1178) in paragraph at lines 582--582
 \T1/ptm/m/sc/8 Höhne K. H.\T1/ptm/m/n/8 :  Vir-tual En-doscopy Us-ing Cu-bic Qu
 ickTime-VR
  []
 
-[22])
+)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1216.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1348,19 +1376,19 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 1216.
- (C:\Users\admin\Desktop\egPublStyle-EuroVis2016\Survey.aux)
+ (D:\egPublStyle-EuroVis2016\Survey.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1216.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1216.
 
 Package rerunfilecheck Info: File `Survey.brf' has not changed.
-(rerunfilecheck)             Checksum: F104F4B0FCD22380D161EEAB14D60D48;12575.
+(rerunfilecheck)             Checksum: B0E3ED053D240A72FDAC34F05FE56BD7;12576.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1216.
  ) 
 Here is how much of TeX's memory you used:
- 14776 strings out of 493921
- 262989 string characters out of 3147282
- 353702 words of memory out of 3000000
- 17516 multiletter control sequences out of 15000+200000
+ 14781 strings out of 493921
+ 262513 string characters out of 3147290
+ 353955 words of memory out of 3000000
+ 17520 multiletter control sequences out of 15000+200000
  47576 words of font info for 72 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  56i,12n,55p,1116b,412s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1371,9 +1399,9 @@ s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX
 w/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.
 pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program F
 iles/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Survey.pdf (23 pages, 11722892 bytes).
+Output written on Survey.pdf (23 pages, 11720964 bytes).
 PDF statistics:
- 1063 PDF objects out of 1200 (max. 8388607)
- 244 named destinations out of 1000 (max. 500000)
+ 1067 PDF objects out of 1200 (max. 8388607)
+ 245 named destinations out of 1000 (max. 500000)
  163 words of extra memory for PDF output out of 10000 (max. 10000000)
 

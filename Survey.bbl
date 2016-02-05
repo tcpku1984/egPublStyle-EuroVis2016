@@ -233,10 +233,10 @@
   Comprehension and Recall}.
 \newblock \emph{Reading Research Quarterly} (1993), 265--276.
 
-\bibitem[Gol]{risks2015}
+\bibitem[Gol15]{risks2015}
 \textsc{Goldberg S.}:
 \newblock The risks of storytelling.
-\newblock In \emph{National Geographic Magazine}.
+\newblock In \emph{National Geographic Magazine} (2015).
 
 \bibitem[Gon95]{gonzalez1995animation}
 \textsc{Gonzalez C.}:
@@ -300,7 +300,14 @@
 \newblock \emph{Visualization and Computer Graphics, IEEE Transactions on 13},
   6 (2007), 1240--1247.
 
-\bibitem[HVW07]{Heer1}
+\bibitem[HVW07a]{heer2007a}
+\textsc{Heer J., Vi{\'e}gas F.~B., Wattenberg M.}:
+\newblock Voyagers and voyeurs: supporting asynchronous collaborative
+  information visualization.
+\newblock In \emph{Proceedings of the SIGCHI conference on Human factors in
+  computing systems} (2007), ACM, pp.~1029--1038.
+
+\bibitem[HVW07b]{Heer1}
 \textsc{Heer J., Vi{\'e}gas F.~B., Wattenberg M.}:
 \newblock {Voyagers and Voyeurs: Supporting Asynchronous Collaborative
   Information Visualization}.
@@ -412,8 +419,8 @@
   Analysis}}.
 \newblock Philomel Productions, Dublin, 1997.
 
-\bibitem[MGF10]{afghanistan}
-\textsc{M.~Green H.~Warrell S. T. S.~B., Formentini M.}:
+\bibitem[MGBF10]{afghanistan}
+\textsc{M.~Green H.~Warrell S.~T., Bernard S., Formentini M.}:
 \newblock {Afghanistan: Behind the Front Line}.
 \newblock
   \url{http://www.gapminder.org/downloads/human-development-trends-2005/}, jan
@@ -500,11 +507,13 @@
 \newblock \emph{Visualization and Computer Graphics, IEEE Transactions on 16},
   6 (2010), 1139--1148.
 
-\bibitem[Sin]{adam2015}
+\bibitem[Sin14]{adam2015}
 \textsc{Singer A.}:
 \newblock {Data Visualization: Your Secret Weapon in Storytelling and
   Persuasion}.
-\newblock In \emph{LinkedIn}.
+\newblock
+  \url{https://www.clickz.com/clickz/column/2378704/data-visualization/your-secret-weapon-in-storytelling-and-persuasion},
+  2014.
 
 \bibitem[SJ00]{russell2000}
 \textsc{Swan R., Jensen D.}:
