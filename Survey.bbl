@@ -1,5 +1,5 @@
 \newcommand{\etalchar}[1]{$^{#1}$}
-\begin{thebibliography}{\uppercase{TvSGSH02}}
+\begin{thebibliography}{\uppercase{EKHW08}}
 
 \bibitem[ASKH07]{akaishi2007narrative}
 \textsc{Akaishi M., Satoh K., Kato Y., Hori K.}:
@@ -314,13 +314,6 @@
 \newblock In \emph{Proceedings of the SIGCHI conference on Human factors in
   computing systems} (2007), ACM, pp.~1029--1038.
 
-\bibitem[IBHE{\etalchar{*}}01]{iserhardt}
-\textsc{Iserhardt-Bauer S., Hastreiter P., Ertl T., Eberhardt K., Tomandl B.}:
-\newblock {Case Study: Medical Web Service for the Automatic 3D Documentation
-  for Neuroradiological Diagnosis}.
-\newblock In \emph{Proceedings of the conference on Visualization'01} (2001),
-  IEEE Computer Society, pp.~425--428.
-
 \bibitem[IPTO11]{isola2011}
 \textsc{Isola P., Parikh D., Torralba A., Oliva A.}:
 \newblock Understanding the intrinsic memorability of images.
@@ -501,6 +494,11 @@
   \url{http://www.gapminder.org/video/talks/ted-2007--the-seemingly-impossible-is-possible.html},
   2007.
 
+\bibitem[Sch08]{Schell:2008}
+\textsc{Schell J.}:
+\newblock \emph{The Art of Game Design: A Book of Lenses}.
+\newblock Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 2008.
+
 \bibitem[SH10]{segal}
 \textsc{Segel E., Heer J.}:
 \newblock {Narrative Visualization: Telling Stories with Data}.
@@ -573,12 +571,6 @@
 \textsc{Tufte E.}:
 \newblock \emph{{Envisioning Information}}.
 \newblock Graphics Press USA, 1990.
-
-\bibitem[TvSGSH02]{tiede}
-\textsc{Tiede U., von Sternberg-Gospos N., Steiner P., H{\"o}hne K.~H.}:
-\newblock {Virtual Endoscopy Using Cubic QuickTime-VR Panorama Views}.
-\newblock In \emph{Medical Image Computing and Computer-Assisted
-  Intervention—MICCAI 2002}. Springer, 2002, pp.~186--192.
 
 \bibitem[VBN{\etalchar{*}}04]{viegas2004}
 \textsc{Vi{\'e}gas F.~B., Boyd D., Nguyen D.~H., Potter J., Donath J.}:
