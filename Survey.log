@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.7.24)  9 FEB 2016 10:27
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.7.24)  10 FEB 2016 12:20
 entering extended mode
 **Survey.tex
 (C:\Users\admin\Desktop\egPublStyle-EuroVis2016\Survey.tex
@@ -567,51 +567,56 @@ LaTeX Info: Redefining \nameref on input line 52.
 
 ABD: EveryShipout initializing macros
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 74.
-LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 74
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 79.
+LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 79
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptmcm.fd"
 File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 74
+LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 79
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlptmcm.fd"
 File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+psycm on input line 74
+LaTeX Font Info:    Try loading font information for OMX+psycm on input line 79
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxpsycm.fd"
 File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
 )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 74.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 79.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 74.
+Overfull \hbox (23.15683pt too wide) in paragraph at lines 79--79
+ [][] 
+ []
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 79.
+
+Underfull \vbox (badness 1394) has occurred while \output is active []
 
 
 Overfull \hbox (2.25pt too wide) has occurred while \output is active
 []
  []
 
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 99.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 100.
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 99.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 100.
  [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
-Underfull \hbox (badness 1902) in paragraph at lines 100--101
+Underfull \hbox (badness 1902) in paragraph at lines 105--106
 []\T1/ptm/m/n/9 Data en-hance-ment and deriva-tion: Data en-hance-ment and
  []
 
@@ -619,10 +624,10 @@ Underfull \hbox (badness 1902) in paragraph at lines 100--101
 File: ./images/table2.jpg Graphic file (type jpg)
 
 <use ./images/table2.jpg>
-Package pdftex.def Info: ./images/table2.jpg used on input line 138.
+Package pdftex.def Info: ./images/table2.jpg used on input line 143.
 (pdftex.def)             Requested size: 478.79846pt x 307.23015pt.
 
-Underfull \hbox (badness 2027) in paragraph at lines 143--145
+Underfull \hbox (badness 2027) in paragraph at lines 148--150
 \T1/ptm/m/n/9 The Sto-ry-telling lit-er-a-ture can be di-vided into var-i-ous s
 ub-
  []
@@ -640,47 +645,40 @@ as been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.194 
-      ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-<./images/VRVis-Wohlfart-Michael.png, id=175, 411.939pt x 344.487pt>
+l.198 \item
+            Storytelling Model: The storytelling model contains a range of h...
+] <./images/VRVis-Wohlfart-Michael.png, id=179, 411.939pt x 344.487pt>
 File: ./images/VRVis-Wohlfart-Michael.png Graphic file (type png)
 
 <use ./images/VRVis-Wohlfart-Michael.png>
 Package pdftex.def Info: ./images/VRVis-Wohlfart-Michael.png used on input line
- 208.
+ 215.
 (pdftex.def)             Requested size: 226.79846pt x 189.65765pt.
 
-Underfull \hbox (badness 1803) in paragraph at lines 200--211
+Underfull \hbox (badness 1803) in paragraph at lines 207--218
 \T1/ptm/m/n/9 Wohlfat is based on pre-vi-ous work of vol-ume vi-su-al-iza-tion
  []
 
+<./images/wohlfart07storyTelling.png, id=183, 487.06969pt x 578.91281pt>
+File: ./images/wohlfart07storyTelling.png Graphic file (type png)
 
-Underfull \vbox (badness 2401) has occurred while \output is active []
-
+<use ./images/wohlfart07storyTelling.png>
+Package pdftex.def Info: ./images/wohlfart07storyTelling.png used on input line
+ 245.
+(pdftex.def)             Requested size: 226.79846pt x 269.56268pt.
  [4pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.222 \item S
-             tory Authoring Process: The story authoring process contains tw...
+l.257 R
+       epresentative datasets analysis: They interactively select representa...
  <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/table2.jpg>]
-<./images/wohlfart07storyTelling.png, id=201, 487.06969pt x 578.91281pt>
-File: ./images/wohlfart07storyTelling.png Graphic file (type png)
-
-<use ./images/wohlfart07storyTelling.png>
-Package pdftex.def Info: ./images/wohlfart07storyTelling.png used on input line
- 238.
-(pdftex.def)             Requested size: 226.79846pt x 269.56268pt.
-
-<./images/lu2008.png, id=211, 338.01282pt x 259.7203pt>
+<./images/lu2008.png, id=209, 338.01282pt x 259.7203pt>
 File: ./images/lu2008.png Graphic file (type png)
 
 <use ./images/lu2008.png>
-Package pdftex.def Info: ./images/lu2008.png used on input line 265.
+Package pdftex.def Info: ./images/lu2008.png used on input line 272.
 (pdftex.def)             Requested size: 226.79846pt x 174.26929pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -692,22 +690,21 @@ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.281 \item E
-             nemy positions surround a school: This example presents a situa...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
-s been already used, duplicate ignored
+l.312 \end{enumerate}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{figure.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.281 \item E
-             nemy positions surround a school: This example presents a situa...
- <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/VRVis-Wohlfart-Michael.
-png> <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/wohlfart07storyTell
-ing.png>] <./images/cruz2011.jpg, id=236, 660.21657pt x 625.58719pt>
+l.312 \end{enumerate}
+                      <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/VR
+Vis-Wohlfart-Michael.png> <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/image
+s/wohlfart07storyTelling.png>]
+<./images/cruz2011.jpg, id=236, 660.21657pt x 625.58719pt>
 File: ./images/cruz2011.jpg Graphic file (type jpg)
 
 <use ./images/cruz2011.jpg>
-Package pdftex.def Info: ./images/cruz2011.jpg used on input line 319.
+Package pdftex.def Info: ./images/cruz2011.jpg used on input line 325.
 (pdftex.def)             Requested size: 227.62204pt x 215.68463pt.
 Missing character: There is no â in font zptmcmr!
 Missing character: There is no € in font zptmcmr!
@@ -720,35 +717,43 @@ Missing character: There is no ™ in font zptmcmr!
 File: ./images/kuhn2012.png Graphic file (type png)
 
 <use ./images/kuhn2012.png>
-Package pdftex.def Info: ./images/kuhn2012.png used on input line 345.
+Package pdftex.def Info: ./images/kuhn2012.png used on input line 351.
 (pdftex.def)             Requested size: 199.16928pt x 439.10114pt.
+
+<./images/lee2013.jpg, id=252, 969.6225pt x 295.1025pt>
+File: ./images/lee2013.jpg Graphic file (type jpg)
+
+<use ./images/lee2013.jpg>
+Package pdftex.def Info: ./images/lee2013.jpg used on input line 382.
+(pdftex.def)             Requested size: 227.62204pt x 69.27254pt.
  [6pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.362 \end{enumerate}
+l.404 \end{enumerate}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{figure.5}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.362 \end{enumerate}
+l.404 \end{enumerate}
                       <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/lu
 2008.png> <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/cruz2011.jpg>]
-<./images/lee2013.jpg, id=273, 969.6225pt x 295.1025pt>
-File: ./images/lee2013.jpg Graphic file (type jpg)
-
-<use ./images/lee2013.jpg>
-Package pdftex.def Info: ./images/lee2013.jpg used on input line 376.
-(pdftex.def)             Requested size: 227.62204pt x 69.27254pt.
-
-<./images/eccles2007.png, id=280, 880.03781pt x 673.01437pt>
+<./images/eccles2007.png, id=278, 880.03781pt x 673.01437pt>
 File: ./images/eccles2007.png Graphic file (type png)
 
 <use ./images/eccles2007.png>
-Package pdftex.def Info: ./images/eccles2007.png used on input line 410.
+Package pdftex.def Info: ./images/eccles2007.png used on input line 416.
 (pdftex.def)             Requested size: 227.62204pt x 174.0759pt.
+
+<./images/Lidal12Geological.png, id=288, 872.50969pt x 542.025pt>
+File: ./images/Lidal12Geological.png Graphic file (type png)
+
+<use ./images/Lidal12Geological.png>
+Package pdftex.def Info: ./images/Lidal12Geological.png used on input line 451.
+
+(pdftex.def)             Requested size: 199.16928pt x 123.72855pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []
@@ -759,168 +764,170 @@ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.428 \item T
-             he StoryTree: This is a tree graph representation of all the ge...
+l.464 \item
+            Multivariate Data Analysis: Using scatter matrix gives the analy...
 pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) ha
 s been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.428 \item T
-             he StoryTree: This is a tree graph representation of all the ge...
+l.464 \item
+            Multivariate Data Analysis: Using scatter matrix gives the analy...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) ha
+s been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.464 \item
+            Multivariate Data Analysis: Using scatter matrix gives the analy...
  <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/kuhn2012.png> <C:/Users
-/admin/Desktop/egPublStyle-EuroVis2016/images/lee2013.jpg>]
-<./images/Lidal12Geological.png, id=305, 872.50969pt x 542.025pt>
-File: ./images/Lidal12Geological.png Graphic file (type png)
-
-<use ./images/Lidal12Geological.png>
-Package pdftex.def Info: ./images/Lidal12Geological.png used on input line 445.
-
-(pdftex.def)             Requested size: 199.16928pt x 123.72855pt.
-
-<./images/lun2013.jpg, id=316, 655.69969pt x 368.87813pt>
+/admin/Desktop/egPublStyle-EuroVis2016/images/lee2013.jpg> <C:/Users/admin/Desk
+top/egPublStyle-EuroVis2016/images/eccles2007.png>]
+<./images/lun2013.jpg, id=312, 655.69969pt x 368.87813pt>
 File: ./images/lun2013.jpg Graphic file (type jpg)
 
 <use ./images/lun2013.jpg>
-Package pdftex.def Info: ./images/lun2013.jpg used on input line 475.
+Package pdftex.def Info: ./images/lun2013.jpg used on input line 481.
 (pdftex.def)             Requested size: 199.16928pt x 112.04329pt.
- [8pdfTeX warning (ext4): destination with the same identifier (name{figure.8})
+ [8pdfTeX warning (ext4): destination with the same identifier (name{figure.9})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.484 
-      pdfTeX warning (ext4): destination with the same identifier (name{figure.
-9}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.484 
+l.508 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 10}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.484 
-       <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/eccles2007.png> <
-C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/Lidal12Geological.png> <C
-:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/lun2013.jpg>]
-Underfull \hbox (badness 1033) in paragraph at lines 506--508
+l.508 
+       <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/Lidal12Geological
+.png> <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/lun2013.jpg>]
+Underfull \hbox (badness 1033) in paragraph at lines 512--514
 \T1/ptm/m/n/9 how to im-prove nar-ra-tive sto-ry-telling vi-su-al-iza-tion. Vie
 -gas et
  []
 
-<./images/viegas2004.png, id=352, 599.99156pt x 485.56406pt>
+<./images/viegas2004.png, id=344, 599.99156pt x 485.56406pt>
 File: ./images/viegas2004.png Graphic file (type png)
 
 <use ./images/viegas2004.png>
-Package pdftex.def Info: ./images/viegas2004.png used on input line 541.
+Package pdftex.def Info: ./images/viegas2004.png used on input line 547.
 (pdftex.def)             Requested size: 227.62204pt x 184.21248pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[9] <./images/fisher.jpg, id=374, 492.33937pt x 227.34938pt>
+[9pdfTeX warning (ext4): destination with the same identifier (name{figure.11})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.568 \end{enumerate}
+                      <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/vi
+egas2004.png>] <./images/fisher.jpg, id=369, 492.33937pt x 227.34938pt>
 File: ./images/fisher.jpg Graphic file (type jpg)
 
 <use ./images/fisher.jpg>
-Package pdftex.def Info: ./images/fisher.jpg used on input line 597.
+Package pdftex.def Info: ./images/fisher.jpg used on input line 603.
 (pdftex.def)             Requested size: 199.16928pt x 91.97191pt.
- [10pdfTeX warning (ext4): destination with the same identifier (name{figure.11
+
+<./images/segelheer.png, id=381, 1970.86313pt x 855.94781pt>
+File: ./images/segelheer.png Graphic file (type png)
+
+<use ./images/segelheer.png>
+Package pdftex.def Info: ./images/segelheer.png used on input line 636.
+(pdftex.def)             Requested size: 227.62204pt x 98.8564pt.
+ [10pdfTeX warning (ext4): destination with the same identifier (name{figure.12
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.617 \end{enumerate}
-                     pdfTeX warning (ext4): destination with the same identifie
-r (name{figure.12}) has been already used, duplicate ignored
+l.652 \item
+            Mapping America visualization: The United Stated Census represen...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) h
+as been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.617 \end{enumerate}
-                      <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/vi
-egas2004.png> <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/fisher.jpg
->] <./images/segelheer.png, id=408, 1970.86313pt x 855.94781pt>
-File: ./images/segelheer.png Graphic file (type png)
-
-<use ./images/segelheer.png>
-Package pdftex.def Info: ./images/segelheer.png used on input line 630.
-(pdftex.def)             Requested size: 227.62204pt x 98.8564pt.
-
-<./images/vis_rhetoric.png, id=418, 709.14937pt x 1193.96063pt>
+l.652 \item
+            Mapping America visualization: The United Stated Census represen...
+ <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/fisher.jpg> <C:/Users/a
+dmin/Desktop/egPublStyle-EuroVis2016/images/segelheer.png>]
+<./images/vis_rhetoric.png, id=412, 709.14937pt x 1193.96063pt>
 File: ./images/vis_rhetoric.png Graphic file (type png)
 
 <use ./images/vis_rhetoric.png>
-Package pdftex.def Info: ./images/vis_rhetoric.png used on input line 660.
+Package pdftex.def Info: ./images/vis_rhetoric.png used on input line 666.
 (pdftex.def)             Requested size: 227.62204pt x 383.22296pt.
 
-<./images/hullman2013.jpg, id=429, 529.22719pt x 331.2375pt>
+<./images/hullman2013.jpg, id=423, 529.22719pt x 331.2375pt>
 File: ./images/hullman2013.jpg Graphic file (type jpg)
 
 <use ./images/hullman2013.jpg>
-Package pdftex.def Info: ./images/hullman2013.jpg used on input line 686.
+Package pdftex.def Info: ./images/hullman2013.jpg used on input line 692.
 (pdftex.def)             Requested size: 227.62204pt x 142.46472pt.
-
-<./images/hullman2013deeper.jpg, id=437, 591.71063pt x 387.69844pt>
-File: ./images/hullman2013deeper.jpg Graphic file (type jpg)
-
-<use ./images/hullman2013deeper.jpg>
-Package pdftex.def Info: ./images/hullman2013deeper.jpg used on input line 713.
-
-(pdftex.def)             Requested size: 227.62204pt x 149.14308pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[11pdfTeX warning (ext4): destination with the same identifier (name{figure.13}
+[11pdfTeX warning (ext4): destination with the same identifier (name{figure.14}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.717 
-       <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/segelheer.png>]
-[12pdfTeX warning (ext4): destination with the same identifier (name{figure.14}
-) has been already used, duplicate ignored
+l.709 T
+       his paper is based on previous work of narrative sequencing\cite{blac...
+ <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/vis_rhetoric.png>]
+<./images/hullman2013deeper.jpg, id=445, 591.71063pt x 387.69844pt>
+File: ./images/hullman2013deeper.jpg Graphic file (type jpg)
+
+<use ./images/hullman2013deeper.jpg>
+Package pdftex.def Info: ./images/hullman2013deeper.jpg used on input line 719.
+
+(pdftex.def)             Requested size: 227.62204pt x 149.14308pt.
+
+Underfull \hbox (badness 1616) in paragraph at lines 748--755
+\T1/ptm/m/n/9 Figueiras is based on pre-vi-ous work of sto-ry-telling [[][][]HD
+11[][]]
+ []
+
+<./images/figueiras14narrative.png, id=461, 1080.28593pt x 722.7pt>
+File: ./images/figueiras14narrative.png Graphic file (type png)
+
+<use ./images/figueiras14narrative.png>
+Package pdftex.def Info: ./images/figueiras14narrative.png used on input line 7
+59.
+(pdftex.def)             Requested size: 199.16928pt x 133.23424pt.
+
+<./images/fig2014.jpg, id=470, 398.23781pt x 261.97874pt>
+File: ./images/fig2014.jpg Graphic file (type jpg)
+
+<use ./images/fig2014.jpg>
+Package pdftex.def Info: ./images/fig2014.jpg used on input line 787.
+(pdftex.def)             Requested size: 227.62204pt x 149.73717pt.
+ [12pdfTeX warning (ext4): destination with the same identifier (name{figure.15
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.738 
-      pdfTeX warning (ext4): destination with the same identifier (name{figure.
-15}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.738 
+l.792 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 16}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.738 
-       <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/vis_rhetoric.png>
- <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/hullman2013.jpg> <C:/Us
-ers/admin/Desktop/egPublStyle-EuroVis2016/images/hullman2013deeper.jpg>]
-Underfull \hbox (badness 1616) in paragraph at lines 745--752
-\T1/ptm/m/n/9 Figueiras is based on pre-vi-ous work of sto-ry-telling [[][][]HD
-11[][]]
- []
+l.792 
+       <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/hullman2013.jpg> 
+<C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/hullman2013deeper.jpg>]
+<./images/Robertson.png, id=499, 1044.90375pt x 793.46437pt>
+File: ./images/Robertson.png Graphic file (type png)
 
-<./images/figueiras14narrative.png, id=478, 1080.28593pt x 722.7pt>
-File: ./images/figueiras14narrative.png Graphic file (type png)
-
-<use ./images/figueiras14narrative.png>
-Package pdftex.def Info: ./images/figueiras14narrative.png used on input line 7
-56.
-(pdftex.def)             Requested size: 199.16928pt x 133.23424pt.
-
-<./images/fig2014.jpg, id=487, 398.23781pt x 261.97874pt>
-File: ./images/fig2014.jpg Graphic file (type jpg)
-
-<use ./images/fig2014.jpg>
-Package pdftex.def Info: ./images/fig2014.jpg used on input line 783.
-(pdftex.def)             Requested size: 227.62204pt x 149.73717pt.
+<use ./images/Robertson.png>
+Package pdftex.def Info: ./images/Robertson.png used on input line 825.
+(pdftex.def)             Requested size: 199.16928pt x 151.23198pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []
@@ -931,186 +938,177 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.807 \item A
-             lternative multi-dimensional trend visualization: A trace visua...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.18}) h
-as been already used, duplicate ignored
+l.842 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+18}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.807 \item A
-             lternative multi-dimensional trend visualization: A trace visua...
- <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/figueiras14narrative.pn
-g> <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/fig2014.jpg>]
-<./images/Robertson.png, id=517, 1044.90375pt x 793.46437pt>
-File: ./images/Robertson.png Graphic file (type png)
+l.842 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+19}) has been already used, duplicate ignored
 
-<use ./images/Robertson.png>
-Package pdftex.def Info: ./images/Robertson.png used on input line 821.
-(pdftex.def)             Requested size: 199.16928pt x 151.23198pt.
-
-<./images/chen2012.jpg, id=524, 246.1697pt x 156.585pt>
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.842 
+       <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/figueiras14narrat
+ive.png> <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/fig2014.jpg> <C
+:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/Robertson.png>]
+<./images/chen2012.jpg, id=525, 246.1697pt x 156.585pt>
 File: ./images/chen2012.jpg Graphic file (type jpg)
 
 <use ./images/chen2012.jpg>
-Package pdftex.def Info: ./images/chen2012.jpg used on input line 851.
+Package pdftex.def Info: ./images/chen2012.jpg used on input line 855.
 (pdftex.def)             Requested size: 227.62204pt x 144.79344pt.
 
-<./images/Tanahashi2012.png, id=535, 1169.87062pt x 432.11438pt>
+<./images/Tanahashi2012.png, id=536, 1169.87062pt x 432.11438pt>
 File: ./images/Tanahashi2012.png Graphic file (type png)
 
 <use ./images/Tanahashi2012.png>
-Package pdftex.def Info: ./images/Tanahashi2012.png used on input line 881.
+Package pdftex.def Info: ./images/Tanahashi2012.png used on input line 885.
 (pdftex.def)             Requested size: 227.62204pt x 84.07404pt.
- [14pdfTeX warning (ext4): destination with the same identifier (name{figure.19
+
+<./images/Liu2013Story.png, id=544, 1342.2647pt x 584.1825pt>
+File: ./images/Liu2013Story.png Graphic file (type png)
+
+<use ./images/Liu2013Story.png>
+Package pdftex.def Info: ./images/Liu2013Story.png used on input line 912.
+(pdftex.def)             Requested size: 453.59692pt x 197.41603pt.
+
+<./images/ferreira2013.png, id=554, 370.38374pt x 351.714pt>
+File: ./images/ferreira2013.png Graphic file (type png)
+
+<use ./images/ferreira2013.png>
+Package pdftex.def Info: ./images/ferreira2013.png used on input line 941.
+(pdftex.def)             Requested size: 199.16928pt x 189.13382pt.
+ [14pdfTeX warning (ext4): destination with the same identifier (name{figure.20
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.895 
-      pdfTeX warning (ext4): destination with the same identifier (name{figure.
-20}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.895 
+l.957 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 21}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.895 
-       <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/Robertson.png> <C
-:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/chen2012.jpg> <C:/Users/ad
-min/Desktop/egPublStyle-EuroVis2016/images/Tanahashi2012.png>]
-<./images/Liu2013Story.png, id=560, 1342.2647pt x 584.1825pt>
-File: ./images/Liu2013Story.png Graphic file (type png)
-
-<use ./images/Liu2013Story.png>
-Package pdftex.def Info: ./images/Liu2013Story.png used on input line 908.
-(pdftex.def)             Requested size: 453.59692pt x 197.41603pt.
-
-<./images/ferreira2013.png, id=570, 370.38374pt x 351.714pt>
-File: ./images/ferreira2013.png Graphic file (type png)
-
-<use ./images/ferreira2013.png>
-Package pdftex.def Info: ./images/ferreira2013.png used on input line 937.
-(pdftex.def)             Requested size: 199.16928pt x 189.13382pt.
-
+l.957 
+       <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/chen2012.jpg> <C:
+/Users/admin/Desktop/egPublStyle-EuroVis2016/images/Tanahashi2012.png>]
 Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[15pdfTeX warning (ext4): destination with the same identifier (name{figure.23}
+[15pdfTeX warning (ext4): destination with the same identifier (name{figure.22}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.979 
-       <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/ferreira2013.png>
-] <./images/AniVis.png, id=606, 381.67593pt x 289.83281pt>
+l.973 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+23}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.973 
+       <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/Liu2013Story.png>
+ <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/ferreira2013.png>]
+<./images/AniVis.png, id=597, 381.67593pt x 289.83281pt>
 File: ./images/AniVis.png Graphic file (type png)
 
 <use ./images/AniVis.png>
-Package pdftex.def Info: ./images/AniVis.png used on input line 992.
+Package pdftex.def Info: ./images/AniVis.png used on input line 996.
 (pdftex.def)             Requested size: 227.62204pt x 172.84846pt.
 
-<./images/bederson99does.png, id=613, 446.26724pt x 325.215pt>
+<./images/bederson99does.png, id=604, 446.26724pt x 325.215pt>
 File: ./images/bederson99does.png Graphic file (type png)
 
 <use ./images/bederson99does.png>
-Package pdftex.def Info: ./images/bederson99does.png used on input line 1018.
+Package pdftex.def Info: ./images/bederson99does.png used on input line 1022.
 (pdftex.def)             Requested size: 199.16928pt x 145.13954pt.
- [16pdfTeX warning (ext4): destination with the same identifier (name{figure.22
+ [16pdfTeX warning (ext4): destination with the same identifier (name{figure.24
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1030 
+l.1037 
        pdfTeX warning (ext4): destination with the same identifier (name{figure
-.24}) has been already used, duplicate ignored
+.25}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1030 
-        <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/Liu2013Story.png
-> <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/AniVis.png>]
-<./images/AnimatedTransitions.png, id=632, 1073.51062pt x 300.3722pt>
+l.1037 
+        <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/AniVis.png> <C:/
+Users/admin/Desktop/egPublStyle-EuroVis2016/images/bederson99does.png>]
+<./images/AnimatedTransitions.png, id=626, 1073.51062pt x 300.3722pt>
 File: ./images/AnimatedTransitions.png Graphic file (type png)
 
 <use ./images/AnimatedTransitions.png>
 Package pdftex.def Info: ./images/AnimatedTransitions.png used on input line 10
-46.
+50.
 (pdftex.def)             Requested size: 227.62204pt x 63.68959pt.
+
+<./images/Bateman2010Effects.png, id=640, 420.06938pt x 637.63219pt>
+File: ./images/Bateman2010Effects.png Graphic file (type png)
+
+<use ./images/Bateman2010Effects.png>
+Package pdftex.def Info: ./images/Bateman2010Effects.png used on input line 110
+3.
+(pdftex.def)             Requested size: 199.16928pt x 302.32385pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[17pdfTeX warning (ext4): destination with the same identifier (name{figure.25}
+[17pdfTeX warning (ext4): destination with the same identifier (name{figure.26}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1086 
-       pdfTeX warning (ext4): destination with the same identifier (name{figure
-.26}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.1086 
-        <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/bederson99does.p
-ng> <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/AnimatedTransitions.
-png>] <./images/Bateman2010Effects.png, id=659, 420.06938pt x 637.63219pt>
-File: ./images/Bateman2010Effects.png Graphic file (type png)
-
-<use ./images/Bateman2010Effects.png>
-Package pdftex.def Info: ./images/Bateman2010Effects.png used on input line 109
-9.
-(pdftex.def)             Requested size: 199.16928pt x 302.32385pt.
-
-<./images/saket2015.jpg, id=668, 379.4175pt x 423.08063pt>
+l.1119 
+        <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/AnimatedTransiti
+ons.png>] <./images/saket2015.jpg, id=664, 379.4175pt x 423.08063pt>
 File: ./images/saket2015.jpg Graphic file (type jpg)
 
 <use ./images/saket2015.jpg>
-Package pdftex.def Info: ./images/saket2015.jpg used on input line 1127.
+Package pdftex.def Info: ./images/saket2015.jpg used on input line 1131.
 (pdftex.def)             Requested size: 170.71652pt x 190.36514pt.
+
+Underfull \hbox (badness 1248) in paragraph at lines 1151--1152
+[]\T1/ptm/m/n/9 Visualization at a Sci-ence Mu-seum: The sci-ence mu-seum
+ []
+
+
+<./images/Scientific_Storytelling_CGA.png, id=675, 663.22781pt x 1018.55531pt>
+File: ./images/Scientific_Storytelling_CGA.png Graphic file (type png)
+
+<use ./images/Scientific_Storytelling_CGA.png>
+Package pdftex.def Info: ./images/Scientific_Storytelling_CGA.png used on input
+ line 1166.
+(pdftex.def)             Requested size: 227.62204pt x 349.56802pt.
  [18pdfTeX warning (ext4): destination with the same identifier (name{figure.27
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1146 \item V
-              isualization at a Scientific Research Center: The Scientific V...
+l.1182 \item N
+              ew York Times, Copenhagen: \textit{The New York Times} visuali...
 pdfTeX warning (ext4): destination with the same identifier (name{figure.28}) h
 as been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1146 \item V
-              isualization at a Scientific Research Center: The Scientific V...
+l.1182 \item N
+              ew York Times, Copenhagen: \textit{The New York Times} visuali...
  <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/Bateman2010Effects.png>
  <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/saket2015.jpg>]
-Underfull \hbox (badness 1248) in paragraph at lines 1147--1148
-[]\T1/ptm/m/n/9 Visualization at a Sci-ence Mu-seum: The sci-ence mu-seum
- []
-
-
-<./images/Scientific_Storytelling_CGA.png, id=692, 663.22781pt x 1018.55531pt>
-File: ./images/Scientific_Storytelling_CGA.png Graphic file (type png)
-
-<use ./images/Scientific_Storytelling_CGA.png>
-Package pdftex.def Info: ./images/Scientific_Storytelling_CGA.png used on input
- line 1162.
-(pdftex.def)             Requested size: 227.62204pt x 349.56802pt.
-
-<./images/StorytellingTheNextStepForVisualisation.png, id=700, 1434.86063pt x 6
+<./images/StorytellingTheNextStepForVisualisation.png, id=699, 1434.86063pt x 6
 94.84593pt>
 File: ./images/StorytellingTheNextStepForVisualisation.png Graphic file (type p
 ng)
  <use ./images/StorytellingTheNextStepForVisualisation.png>
 Package pdftex.def Info: ./images/StorytellingTheNextStepForVisualisation.png u
-sed on input line 1194.
+sed on input line 1198.
 (pdftex.def)             Requested size: 199.16928pt x 96.44017pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1122,9 +1120,19 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1204 
-        <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/Scientific_Story
-telling_CGA.png>] (C:\Users\admin\Desktop\egPublStyle-EuroVis2016\Survey.bbl
+l.1214 \item[$\bullet$]
+                        Narrative visualization for scientific and geo-spati...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.30}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1214 \item[$\bullet$]
+                        Narrative visualization for scientific and geo-spati...
+ <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/Scientific_Storytelling
+_CGA.png> <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/StorytellingTh
+eNextStepForVisualisation.png>]
+(C:\Users\admin\Desktop\egPublStyle-EuroVis2016\Survey.bbl
 (C:\Users\admin\Desktop\egPublStyle-EuroVis2016\Survey.brf)
 \tf@brf=\write4
 
@@ -1154,14 +1162,7 @@ $\T1/pcr/m/n/8 politics / 20100201-[]budget-[]porcupine-[]graphic . html$[][]\T
 1/ptm/m/n/8 ,
  []
 
-[20pdfTeX warning (ext4): destination with the same identifier (name{figure.30}
-) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.112 
-       <C:/Users/admin/Desktop/egPublStyle-EuroVis2016/images/StorytellingTheNe
-xtStepForVisualisation.png>]
+[20]
 Underfull \hbox (badness 5741) in paragraph at lines 133--133
 []\T1/ptm/m/sc/8 Dictionary O. E.\T1/ptm/m/n/8 :.  [][]$\T1/pcr/m/n/8 http : / 
 / www . oed . com / view /$
@@ -1369,7 +1370,7 @@ ickTime-VR
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1225.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1229.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []
@@ -1378,10 +1379,10 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [23
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1225.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1229.
  (C:\Users\admin\Desktop\egPublStyle-EuroVis2016\Survey.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1225.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1225.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1229.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1229.
 
 
 
@@ -1389,18 +1390,18 @@ Package rerunfilecheck Warning: File `Survey.brf' has changed.
 (rerunfilecheck)                Rerun to get bibliographical references right.
 
 Package rerunfilecheck Info: Checksums for `Survey.brf':
-(rerunfilecheck)             Before: B0E3ED053D240A72FDAC34F05FE56BD7;12576
-(rerunfilecheck)             After:  7FCF0C640FB4BC70BD8685FE37DF4E12;12576.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1225.
+(rerunfilecheck)             Before: C9A6936B5295B16E7EA4C81A528EF25D;12369
+(rerunfilecheck)             After:  749C2DF2355CBD1372C8F36FA3715FF3;12369.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1229.
  ) 
 Here is how much of TeX's memory you used:
- 14779 strings out of 493921
- 263044 string characters out of 3147282
- 353955 words of memory out of 3000000
+ 14775 strings out of 493921
+ 263016 string characters out of 3147282
+ 353824 words of memory out of 3000000
  17520 multiletter control sequences out of 15000+200000
  46946 words of font info for 70 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 56i,12n,55p,1116b,412s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,13n,55p,1116b,412s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 
 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts
@@ -1408,9 +1409,9 @@ s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX
 w/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.
 pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program F
 iles/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Survey.pdf (23 pages, 11723585 bytes).
+Output written on Survey.pdf (23 pages, 11723936 bytes).
 PDF statistics:
- 1067 PDF objects out of 1200 (max. 8388607)
- 245 named destinations out of 1000 (max. 500000)
+ 1062 PDF objects out of 1200 (max. 8388607)
+ 241 named destinations out of 1000 (max. 500000)
  163 words of extra memory for PDF output out of 10000 (max. 10000000)
 

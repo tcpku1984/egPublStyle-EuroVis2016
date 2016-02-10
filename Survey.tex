@@ -56,16 +56,23 @@
 
 % for anonymous conference submission please enter your SUBMISSION ID
 % instead of the author's name (and leave the affiliation blank) !!
-\author[C.Tong \& R.Roberts \& R.S.Laramee]
-       {Chao Tong, Richard Roberts, Rita Borgo,
-        and Robert S. Laramee$^{1}$
-
-        $^1$Swansea University
-  %       $^2$Institut f{\"u}r ComputerGraphik \& Wissensvisualisierung, TU Graz, Austria
-%        $^2$ Another Department to illustrate the use in papers from authors
-%             with different affiliations
+%\author[C.Tong \& R.Roberts \& R.S.Laramee]
+%       {Chao Tong, Richard Roberts, Rita Borgo,
+%        and Robert S. Laramee$^{1}$
+%        $^1$Swansea University
+%  %       $^2$Institut f{\"u}r ComputerGraphik \& Wissensvisualisierung, TU Graz, Austria
+%%        $^2$ Another Department to illustrate the use in papers from authors
+%%             with different affiliations
+%       }
+\author[C.Tong \& R. Roberts \& R.Borgo\&R.S.Laramee]
+       {Chao Tong, Richard Roberts, Rita Borgo, Robert S.Laramee$^{1}$,
+        Kodzo Wegba, Aidong Lu$^{2}$,
+        Yun Wang, Huamin Qu, Qiong Luo and Xiaojuan Ma$^{3}$
+        \\
+         $^1$Visual And Interactive Computing Group, Swansea University\\
+         $^2$Department of Computer Science and Engineering, Hong Kong University of Science and Technology\\
+         $^3$Department of Computer Science, University of North Carolina at Charlotte\\
        }
-
 % ------------------------------------------------------------------------
 \maketitle
 %\tableofcontents
@@ -138,7 +145,7 @@ Interpretation &  Ma et al.\, 2012\cite{sci} \par  &  Kosara and Mackinlay, 2013
 \end{figure*}
 
 \subsection{Classification of Literature}
-The Storytelling literature can be divided into various sub-categories: scientific visualization, information visualization, geo-spatial visualization, narratives, static and dynamic transitions, memorability, data enhancement, interpretation and exploration, analysis versus presentation. Here is a description of these categories that we haven't described as part of the challenges:
+The Storytelling literature can be divided into various sub-categories: scientific visualization, information visualization, geo-spatial visualization, narratives, static \& dynamic transitions, memorability, data enhancement, interpretation \& exploration, analysis versus presentation. Here is a description of these categories that we haven't described as part of the challenges:
 \begin{enumerate}
 	\item Scientific Visualization, Information Visualization versus Geo-spatial Visualization: Scientific visualization is seen by a user primarily relates to a physical phenomena occurring in nature, such as flow, volume and surface visualization. Information visualization is more concerned with abstract data with no inherent spatial geometry. While geo-spatial visualization describes objects or phenomena with a specific location on a map \cite{spence2007}.
 	\item Static versus Dynamic: Static visualization requires no action from the user and the encoded data is immediately available. While dynamic visualization refers to those representations that go beyond traditional static such as including animation, interaction and real-time display \cite{spence2007}.
@@ -167,7 +174,7 @@ An author is best described as an individual solely responsible for the creation
 %\item \textit{The Concept:}
  Presenting the findings of a qualitative study of undergraduate writers at The City University of New York, Hullman explores student perspectives on models of authorship, the relationships between these models and student experiences of authorship in different writing situations, and proposes the importance of distinguishing between the multiple models and definitions of authorship and the rhetorical contexts associated with each \cite{rodgers2011}.
 %\item \textit{Case study:}
-Rodger develops a qualitative study on 800 students on the definition of authorship and their rhetorical contexts over a one-hour interview.
+Rodger develops a qualitative study of 800 students on the definition of authorship and their rhetorical contexts over a one-hour interview.
 Students defined authors as "[people] who see writing as being beyond a hobby," and as a term that should be applied only to those
 individuals for whom writing is "something he or she has to do," "a career," or "an act that will lead to something being published." 
 
@@ -188,11 +195,13 @@ Storytelling is a relatively new form of interactive volume visualization presen
 Wohlfat  explores the usefulness of storytelling in the context of volume visualization. He presents a story telling model and divides the concept of volumetric storytelling into story authoring and storytelling constituents. Then he presents a volumetric storytelling prototype application, which is based on the RTVR (real time volume redering) Java library \cite{mroz2001rtvr} for interactive volume rendering. See Figure \ref{fig:VRVis-Wohlfart-Michael}\cite{wohlfat}.
 %\item \textit{Theory and application}
 \begin{enumerate}
-\item Storytelling Model: The storytelling model contains a range of hierarchy levels, in top-down order, which are: story node, story transitions, story action group, story action atoms. See Figure \ref{fig:VRVis-Wohlfart-Michael}. The story nodes form the corner marks of the story and store the state of the whole scene. Story nodes are connected by story transitions, each consisting of one or multiple story action groups. Each story action group stores the scene changes relative to its preceding action group (or story node) \cite{wohlfat}.
+\item Storytelling Model: The storytelling model contains a range of hierarchy levels, in top-down order, which are: story node, story transitions, story action group, story action atoms. See Figure \ref{fig:VRVis-Wohlfart-Michael}. The story nodes form the corner marks of the story and store the state of the whole scene. Story nodes are connected by story transitions, each consisting of one or multiple story action groups. Each story action group stores the scene changes relative to its preceding action group (or story node) \cite{wohlfat,wohlfart2}.
 
-\item Story Authoring Process: The story authoring process contains two steps: a story recording process and a story editing process. The outcome of this recording process is a raw prototype of a story told through volume visualization. The story editing step this raw story is refined until the final story outline is reached \cite{wohlfat}.
-\item Story Telling Process: This process is to present volume visualization following story telling model. And the key feature is interaction, including viewing interaction, representing interaction and data interaction \cite{wohlfat}.
-\item Storytelling prototype based on RTVR: Figure \ref{fig:VRVis-Wohlfart-Michael} shows an image sequence taken from a sample linear volumetric story visualized with their prototype. The distinct story nodes denoted through (N) refer to the key events in the story, which provide an overview first, then details on specific features in the dataset, and at the end a conclusion made by the story author. The necessary story transitions are represented as orange arrows from one story node to the next and are animated in the prototype application. The story consumer may take over some story parameters (e.g.camera angle) already during playback or at the end of the story to further investigate the dataset \cite{wohlfat}.
+\item Story Authoring Process: The story authoring process contains two steps: a story recording process and a story editing process. The outcome of this recording process is a raw prototype of a story told through volume visualization. The story editing step this raw story is refined until the final story outline is reached \cite{wohlfat,wohlfart2}.
+\item Story Telling Process: This process is to present volume visualization following story telling model. And the key feature is interaction, including viewing interaction, representing interaction and data interaction \cite{wohlfat,wohlfart2}.
+\item Storytelling prototype based on RTVR: Figure \ref{fig:VRVis-Wohlfart-Michael} shows an image sequence taken from a sample linear volumetric story visualized with their prototype. The distinct story nodes denoted through (N) refer to the key events in the story, which provide an overview first, then details on specific features in the dataset, and at the end a conclusion made by the story author. The necessary story transitions are represented as orange arrows from one story node to the next and are animated in the prototype application. The story consumer may take over some story parameters (e.g.camera angle) already during playback or at the end of the story to further investigate the dataset \cite{wohlfat,wohlfart2}.
+\item CT-dataset visualization story: This story guides the observers through the visualization, puts the contained visual representations
+into context to each other and finally introduces them to important features in the data \cite{wohlfart2}. See Figure \ref{fig:wohlfart07storyTelling}.
 \end{enumerate}
 %\item \textit{Related Work :}  
 Wohlfat is based on previous work of volume visualization \cite{Amy,robert,Ivan} and interactive visualization \cite{merlin}and combine these concepts together to develop a storytelling model for volume visualization.
@@ -208,30 +217,30 @@ Wohlfat is based on previous work of volume visualization \cite{Amy,robert,Ivan}
 \end{figure}
 
 
-%\textbf{Title:} \textit{Story Telling for Presentation in Volume Visualization}
+%%\textbf{Title:} \textit{Story Telling for Presentation in Volume Visualization}
+%%\begin{enumerate}
+%%\item \textit{The Concept:} 
+%Wohlfart and Hauser present a novel approach to volume visualization for presentation purposes that improves the charity
+%comprehensibility, and credibility of the intended visualization message. Also it combines selected aspects from storytelling as well as from interactive volume visualization to create a guided but at the same time interactive visualization presentation approach, See Figure \ref{fig:wohlfart07storyTelling}\cite{wohlfart2}.
+%%\item \textit{Theory and application}
 %\begin{enumerate}
-%\item \textit{The Concept:} 
-Wohlfart and Hauser present a novel approach to volume visualization for presentation purposes that improves the charity
-comprehensibility, and credibility of the intended visualization message. Also it combines selected aspects from storytelling as well as from interactive volume visualization to create a guided but at the same time interactive visualization presentation approach, See Figure \ref{fig:wohlfart07storyTelling}\cite{wohlfart2}.
-%\item \textit{Theory and application}
-\begin{enumerate}
-\item Storytelling Model: the story telling model contains  several hierarchy levels, in top-down order, which are: story node, story transitions, story action group, story action atoms. The story nodes form the corner marks of the story and store the state of the whole scene. Story nodes are connected by story transitions, each consisting of one or multiple story action groups. Each story action group stores the scene changes relative to its preceding action group (or story node) \cite{wohlfart2}.
-
-\item Story Authoring Process: The story authoring process contains two steps: a story recording process and a story editing process. The outcome of this recording process is a raw prototype of a story told through volume visualization. In the story editing step this raw story is refined until the final story outline is reached.\cite{wohlfart2}
-\item Story Telling Process: This process is to present volume visualization following storytelling model. And the key feature in this part is interaction, including viewing interaction, representing interaction and content interaction \cite{wohlfart2}.	
-\item CT-dataset visualization story: This story guides the observers through the visualization, puts the contained visual representations
-into context to each other and finally introduces them to important features in the data \cite{wohlfart2}.
-
-\end{enumerate}
-%\item \textit{Related Work:}  
-Wohlfart and Hauser is based on previous work of animated visualization \cite{iserhardt} and visual storytelling \cite{tiede} and combines these concepts together.
-%\item \textit{In this paper, the following visualization techniques are illustrated :} 
-%\begin{enumerate}
-%\item illustrative volume rendering, animation
-%\item scientific visualization/authorship
+%\item Storytelling Model: the story telling model contains  several hierarchy levels, in top-down order, which are: story node, story transitions, story action group, story action atoms. The story nodes form the corner marks of the story and store the state of the whole scene. Story nodes are connected by story transitions, each consisting of one or multiple story action groups. Each story action group stores the scene changes relative to its preceding action group (or story node) \cite{wohlfart2}.
+%
+%\item Story Authoring Process: The story authoring process contains two steps: a story recording process and a story editing process. The outcome of this recording process is a raw prototype of a story told through volume visualization. In the story editing step this raw story is refined until the final story outline is reached.\cite{wohlfart2}
+%\item Story Telling Process: This process is to present volume visualization following storytelling model. And the key feature in this part is interaction, including viewing interaction, representing interaction and content interaction \cite{wohlfart2}.	
+%\item CT-dataset visualization story: This story guides the observers through the visualization, puts the contained visual representations
+%into context to each other and finally introduces them to important features in the data \cite{wohlfart2}.
+%
 %\end{enumerate}
-%\end{enumerate}
-
+%%\item \textit{Related Work:}  
+%Wohlfart and Hauser is based on previous work of animated visualization \cite{iserhardt} and visual storytelling \cite{tiede} and combines these concepts together.
+%%\item \textit{In this paper, the following visualization techniques are illustrated :} 
+%%\begin{enumerate}
+%%\item illustrative volume rendering, animation
+%%\item scientific visualization/authorship
+%%\end{enumerate}
+%%\end{enumerate}
+%
 \begin{figure}
 \includegraphics[width=0.45\textwidth]{./images/wohlfart07storyTelling}
 \captionof{figure}{\textit{Here the top two images show an overview of the CT scan data. A partial clipping reveals both the skin layer and bone layer, but shows the full set of data. The middle shows a zoomed view that isolates eye swelling in the image (left), and a filtered view that exposes some blood effusions in the swollen region. The bottom offers a comparison of the non-injured eye with the injured one and shows the cause of the swelling which is attributed to a tripod fracture just below the eye. This design offers the user a macro overview as to lay the foundations of a story background then narrows the scope to view the focal point of the image \cite{wohlfart2}.}}\label{fig:wohlfart07storyTelling}
@@ -251,7 +260,7 @@ sequence, reduces the amount of data to necessarily visualize and still keeps th
 
 Interactive storyboard: An interactive storyboard is used to visualize and explore the overall content of time-varying datasets through composing an appropriate amount of information that can be efficiently understood by users \cite{lu2008interactive}. 
 %\item \textit{Related Work:}  
-Lu and Shen is based on the previous work of time-vary visualization \cite{hansen2011visualization} and design a general method for comparing data dissimilarities. It does not require a dense sampling frequency to capture the object evolution and is not limited to specific feature models, such as geometry or interval volumes, and their attribute designs \cite{lu2008interactive}. 
+Lu and Shen is based on the previous work of time-vary visualization \cite{hansen2011visualization} and design a general method for comparing data dissimilarities. They do not require a dense sampling frequency to capture the object evolution and is not limited to specific feature models, such as geometry or interval volumes, and their attribute designs \cite{lu2008interactive}. 
 %\item \textit{In this paper, the following visualization techniques are illustrated :} 
 %\begin{enumerate}
 %\item illustrative volume rendering, animation
@@ -297,7 +306,6 @@ Cruz et al.\ present generative storytelling as a conceptual framework for infor
 
 %\item  \textit{System components:} 
 \begin{enumerate}
-\item Fabulas: Fabulas are set of time-ordered events caused or experienced by actors. Date fabulars and the events, agents, actions, and times represented in a dataset.
 \item Generative-storytelling character: A story is formed by characters. It involves the representation of the fabula's actors and the definition of a temporal structure.
 \item The conceptual framework: The engine transforming a fabular into story consists two models. The event model creates a story timeline and an action model create a set of actors behavior.
 \item Applying the framework: Visualizing an empire's decline visualizing western empire's decline in the 19th and 20th centuries. See Figure \ref{cruz2011}.
@@ -607,7 +615,7 @@ passes along the x axis for each candidate; number of mentions of the term along
 Heer et al.\ investigate the design of narrative visualizations and identify techniques for telling stories with data graphics and challenges with the salient dimension of visual storytelling. They describe seven genres of narrative visualization: magazine style, annotated chart, partitioned poster, flow chart, comic strip, slide show, and video. See Figure \ref{fig:segelheer}. They also discuss directions for future reader-centric research \cite{Heer1}.
 %\item  \textit{Case Studies:} 
 \begin{enumerate}
-\item New York Times visualization on steroid usage in sports: one larger image and line chart are combined with small images, line charts and bar charts to illustrate the usage of steroids status over 30 years. The visualization incorporates visual highlighting and connecting elements leading viewing order \cite{steroids}. Seasons of player is mapped to the x axis, the amount of steroids is mapped to the y axis, and different colors represent different players.
+\item New York Times visualization on steroid usage in sports: one larger image and line chart are combined with small images, line charts and bar charts to illustrate the usage of steroids status over 30 years. The visualization incorporates visual highlighting and connecting elements leading viewing order \cite{steroids}. Years is mapped to the x axis, the amount of steroids is mapped to the y axis, and different colors represent different players.
 \item New York Times visualization on budget forecast: a progress bar is used to describe the accuracy of past white house budgets predictions \cite{budget}. The time is mapped to x-axis, and budget situation is mapped to y-axis.
 \item Afghanistan nation-building development project: This is a interactive geographic visualization with details on-demand sliders that present the status of Afghanistan nation-building development projects \cite{afghanistan}. Opium cultivation is mapped to the color, and conturies are shown on the map. Time can be changed from 2005 to 2009 by dragging the control bar.
 \item Gapminder, Human Development Index: The Gapminder visualization uses animated bubble charts to show possible detrimental effects on a person's ability to follow trends \cite{gapminder2}. Continent is mapped to color, region is mapped to each bubble, and size is mapped to bubble size, position is mapped to average yearly income.
@@ -731,12 +739,9 @@ Figueiras takes professionally produced visualizations as case studies to analyz
 
 \textit{Narrative Strategies:} 
 \begin{enumerate}
-		
-	\item Context: Providing context to a visualization enables the user to make sense of the data using additional information. Without a sufficient amount of context, less meaning can be derived from the data, whereas the addition of context gives the user more information to explore the data and begin to understand features found within it. This is made easier by the development of interactive visualizations and the ability for users to choose what layers of information they see. 
-		
-	\item Empathy: Although not often associated with information visualization, it has been found that emotive/empathetic visualizations are more memorable and more enjoyable for the user \cite{Kosara}.
-		
-	\item Time Narrative: Utilizing the temporal nature of data in visualization allows users to mentally map the data by adding a sense of story flow. This improves user memorability and aids in the understanding of the data \cite{Kosara}.
+\item Context: Providing context to a visualization enables the user to make sense of the data using additional information. Without a sufficient amount of context, less meaning can be derived from the data, whereas the addition of context gives the user more information to explore the data and begin to understand features found within it. This is made easier by the development of interactive visualizations and the ability for users to choose what layers of information they see. 
+\item Empathy: Although not often associated with information visualization, it has been found that emotive/empathetic visualizations are more memorable and more enjoyable for the user \cite{Kosara}.
+\item Time Narrative: Utilizing the temporal nature of data in visualization allows users to mentally map the data by adding a sense of story flow. This improves user memorability and aids in the understanding of the data \cite{Kosara}.
 		
 \end{enumerate}
 %\item \textit{Related Work :}  
@@ -764,8 +769,9 @@ Storytelling aims to simplify concepts, create emotional connection, and provide
 %\item \textit{The Concept:} 
 Figueiras presents the results of a focus group study on collecting information on narrative elements. She then suggests strategies for storytelling in visualization \cite{figueiras2014tell}.
 %\item  \textit{Case Study:} 
+
 Sixteen participants are asked to study 11 information visualizations of different types and different characteristics (Interactive, non-interactive, introductory text, accompanying article, and audio narration). Then they are asked to rate visualizations in terms of  comprehension, navigation, and likability, See Figure \ref{fig:fig2014}.
-The participants give high scores to all visualizations, particularly to interactive visualizations. The story suggests that a good storytelling visualization is well-structured and interactive with audience preferences. The results of the user story suggest that interactivity, the option of drilling-down, context, and a sense of relatability and importance for users to fell engaged.
+The participants give high scores to all visualizations, particularly to interactive visualizations. The story suggests that a good storytelling visualization is well-structured and interactive with audience preferences. The results of the user story suggest that interactivity, the option of drilling-down, context, and a sense of relatability and importance for users to feel engaged.
 %\item \textit{Related Work:} 
 
 Figueiras is based on previous work of narrative visualization \cite{segal}, and storytelling visualization \cite{Kosara,sci}. The author uses a focus group to examine storytelling effects in information visualization and storytelling visualization.
@@ -806,7 +812,7 @@ Robertson et al.\ propose two alternatives to animated bubble charts for visuali
 \item Small multiples visualization: countries can be clustered based on position, size and location. They are further grouped by continent and ordered alphabetically within each group \cite{Tufte}.
 \end{enumerate}
 %\item \textit{Related Work:} 
-Robertson et al.\ is based on earlier work by Tversky et al.\ \cite{tversky} and Baudisch et al.\ \cite{baudisch}. Previous work is limited to small data set sizes (200 samples or less). This work focuses on presentation rather than analysis and relies on animation to show trends over time.
+Robertson et al.\ is based on earlier work by Tversky et al.\ \cite{tversky} and Baudisch et al.\ \cite{baudisch}. Previous work is limited to small data set sizes (200 samples or less). Their work focuses on presentation rather than analysis and relies on animation to show trends over time.
 %\item \textit{In this paper, the following visualization techniques are illustrated :} 
 %\begin{enumerate}
 %\item line charts, bubble charts, bar charts, tables, animation
@@ -999,10 +1005,10 @@ Akiba et al.\ is based on previous animation support \cite{childs} and an animat
 Bederson and Boltman examine how animating a viewpoint change in a spatial information system affects a user's ability to build a mental map of the information in the space. Based on a user-study involving a spatial map of a family tree, animation improved subjects' ability to learn the spatial position of family members within the tree without a speed penalty \cite{bedrson}.
 %\item \textit{Experiment:} 
 
-Family Tree test: two different family trees of nine individuals are presented to two groups people with animation and without animation. The subjects were given three kinds of task : navigation of family trees, exploratory family trees and reconstruction of family trees. The speed and accuracy of performance are recorded. In this experiment, there is a statistically significant improvement in accuracy of the reconstruction task than other tasks. Animation resulted in fewer task errors than the static ones. See Figure \ref{fig:bederson99does}.
+Family Tree test: two different family trees of nine individuals are presented to two groups people with animation and without animation. The subjects were given three kinds of tasks; navigation of family trees, exploratory family trees and reconstruction of family trees. The speed and accuracy of performance are recorded. In this experiment, there is a statistically significant improvement in accuracy of the reconstruction task than other tasks. Animation resulted in fewer task errors than the static ones. See Figure \ref{fig:bederson99does}.
 %\item \textit{Related Work:} 
 
-Bederson and Boltman is based on previous work of Gonzalez \cite{gonzalez} and Donskoy \cite{donskoy} about the relationship between animation and users' understanding. Compared to previous work, Bederson and Boltman focus on animation of the viewpoint. The design of experiment is to change from a single in-between frame to several in-between frames.
+Bederson and Boltman is based on Gonzalez \cite{gonzalez} and Donskoy \cite{donskoy} addresses the relationship between animation and users' understanding. Compared to previous work, Bederson and Boltman focus on animation of the viewpoint. The design of experiment is to change from a single in-between frame to several in-between frames.
 %\item \textit{In this paper, the following visualization techniques are illustrated :} 
 %\begin{enumerate}
 %\item hierarchical graph, animated graphs, static graphs
@@ -1080,7 +1086,7 @@ Bateman et al.\ examine whether embellishment is useful for comprehension and me
 
 A comparison of plain and embellished charts: 14 embellished charts are selected from Nigel Holmes' book Designer's Guide to Creating 
 Charts and Diagrams \cite{holmes}, and converted to plain charts. See Figure \ref{fig:Bateman2010Effects}. Twenty participants are presented a chart on a slide, alternating between embellished and plain versions. Participants are required to perform two tasks (reading and describing task and recall task) after five-minutes and after 2-3 weeks. The eye-gaze and task performance of participants are recorded for analysis. This study shows that there is no significant difference between plain and embellished versions for interactive interpretation accuracy and recall accuracy after a five-minute gap,
-but after a long-term gap, recall of both topic and detail of chart (categories and trend) is significant better for embellished charts. Participants saw the value in message more often in Holmes charts than in the plain charts.
+but after a long-term gap, recall of both topic and detail of chart (categories and trend) is significantly better for embellished charts. Participants saw the value in message more often in Holmes charts than in the plain charts.
 
 %\item \textit{Related Work:}  
 Previous studies have suggested that minor decoration in charts may not hamper interpretation \cite{Blasio}, and work in psychology has shown that the use of imagery can affect memorability \cite{gambrell}, but there is very little work that looks at how chart imagery can affect the way people view information charts. 
