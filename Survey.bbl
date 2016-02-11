@@ -3,7 +3,7 @@
 
 \bibitem[ASKH07]{akaishi2007narrative}
 \textsc{Akaishi M., Satoh K., Kato Y., Hori K.}:
-\newblock Narrative based topic visualization for chronological data.
+\newblock {Narrative Based Topic Visualization for Chronological Data}.
 \newblock In \emph{Information Visualization, 2007. IV'07. 11th International
   Conference} (2007), IEEE, pp.~139--144.
 
@@ -20,7 +20,7 @@
 
 \bibitem[BB79]{black1979}
 \textsc{Black J.~B., Bower G.~H.}:
-\newblock Episodes as chunks in narrative memory.
+\newblock {Episodes as Chunks in Narrative Memory}.
 \newblock \emph{Journal of Verbal Learning and Verbal Behavior 18}, 3 (1979),
   309--318.
 
@@ -39,14 +39,14 @@
 
 \bibitem[BKZ10]{begel2010}
 \textsc{Begel A., Khoo Y.~P., Zimmermann T.}:
-\newblock Codebook: discovering and exploiting relationships in software
-  repositories.
+\newblock {Codebook: Discovering and Exploiting Relationships in Software
+  Repositories}.
 \newblock In \emph{Software Engineering, 2010 ACM/IEEE 32nd International
   Conference on} (2010), vol.~1, IEEE, pp.~125--134.
 
 \bibitem[BLRD02]{boyd2002}
 \textsc{Boyd D., Lee H.-Y., Ramage D., Donath J.}:
-\newblock Developing legible visualizations for online social spaces.
+\newblock {Developing Legible Visualizations for Online Social Spaces}.
 \newblock In \emph{System Sciences, 2002. HICSS. Proceedings of the 35th Annual
   Hawaii International Conference on} (2002), IEEE, pp.~1060--1069.
 
@@ -75,7 +75,7 @@
 \bibitem[BVB{\etalchar{*}}13]{borkin2013makes}
 \textsc{Borkin M., Vo A., Bylinskii Z., Isola P., Sunkavalli S., Oliva A.,
   Pfister H., et~al.}:
-\newblock What makes a visualization memorable?
+\newblock {What Makes a Visualization Memorable?}
 \newblock \emph{Visualization and Computer Graphics, IEEE Transactions on 19},
   12 (2013), 2306--2315.
 
@@ -88,7 +88,7 @@
 
 \bibitem[CLH12]{chen2012visual}
 \textsc{Chen T., Lu A., Hu S.-M.}:
-\newblock Visual storylines: Semantic visualization of movie sequence.
+\newblock {Visual storylines: Semantic visualization of movie sequence}.
 \newblock \emph{Computers \& Graphics 36}, 4 (2012), 241--249.
 
 \bibitem[CLM15]{cropper2015scientific}
@@ -100,7 +100,7 @@
 
 \bibitem[CM11]{cruz2011}
 \textsc{Cruz P., Machado P.}:
-\newblock Generative storytelling for information visualization.
+\newblock {Generative Storytelling for Information Visualization}.
 \newblock \emph{IEEE computer graphics and applications}, 2 (2011), 80--85.
 
 \bibitem[Cox10]{budget}
@@ -118,7 +118,7 @@
 
 \bibitem[CYW15]{chu2015}
 \textsc{Chu W.-T., Yu C.-H., Wang H.-H.}:
-\newblock Optimized comics-based storytelling for temporal image sequences.
+\newblock {Optimized Comics-Based Storytelling for Temporal Image Sequences}.
 \newblock \emph{Multimedia, IEEE Transactions on 17}, 2 (2015), 201--215.
 
 \bibitem[Den01]{denning}
@@ -176,8 +176,8 @@
 
 \bibitem[Don95]{donath1995}
 \textsc{Donath J.~S.}:
-\newblock Visual who: Animating the affinities and activities of an electronic
-  community.
+\newblock {Visual Who: Animating the affinities and activities of an electronic
+  community}.
 \newblock In \emph{Proceedings of the third ACM international conference on
   Multimedia} (1995), ACM, pp.~99--107.
 
@@ -195,7 +195,7 @@
 
 \bibitem[Fig14a]{figueiras2014tell}
 \textsc{Figueiras A.}:
-\newblock How to tell stories using visualization.
+\newblock {How to Tell Stories Using Visualization}.
 \newblock In \emph{Information Visualisation (IV), 2014 18th International
   Conference on} (2014), IEEE, pp.~18--18.
 
@@ -208,8 +208,8 @@
 
 \bibitem[FPV{\etalchar{*}}13]{ferreira2013}
 \textsc{Ferreira N., Poco J., Vo H.~T., Freire J., Silva C.~T.}:
-\newblock Visual exploration of big spatio-temporal urban data: A study of new
-  york city taxi trips.
+\newblock {Visual Exploration of Big Spatio-temporal Urban Data: A study of new
+  york city taxi trips}.
 \newblock \emph{Visualization and Computer Graphics, IEEE Transactions on 19},
   12 (2013), 2149--2158.
 
@@ -235,17 +235,17 @@
 
 \bibitem[Gol15]{risks2015}
 \textsc{Goldberg S.}:
-\newblock The risks of storytelling.
+\newblock {The Risks Of Storytelling}.
 \newblock In \emph{National Geographic Magazine} (2015).
 
 \bibitem[Gon95]{gonzalez1995animation}
 \textsc{Gonzalez C.}:
-\newblock Animation in user interface design for decision making: a research
-  framework and empirical analysis.
+\newblock {Animation in User Interface Design for Decision Making: a research
+  framework and empirical analysis}.
 
 \bibitem[Gon96a]{gonzalez1996does}
 \textsc{Gonzalez C.}:
-\newblock Does animation in user interfaces improve decision making?
+\newblock {Does Animation in User Interfaces Improve Decision Making?}
 \newblock In \emph{Proceedings of the SIGCHI conference on human factors in
   computing systems} (1996), ACM, pp.~27--34.
 
@@ -268,19 +268,20 @@
 
 \bibitem[HDA13]{hullman2013}
 \textsc{Hullman J., Diakopoulos N., Adar E.}:
-\newblock Contextifier: Automatic generation of annotated stock visualizations.
+\newblock {Contextifier: Automatic Generation of Annotated Stock
+  Visualizations}.
 \newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
   Computing Systems} (2013), ACM, pp.~2707--2716.
 
 \bibitem[HDR{\etalchar{*}}13]{hullman2013deeper}
 \textsc{Hullman J., Drucker S., Riche N.~H., Lee B., Fisher D., Adar E.}:
-\newblock A deeper understanding of sequence in narrative visualization.
+\newblock {A Deeper Understanding of Sequence in Narrative Visualization}.
 \newblock \emph{Visualization and Computer Graphics, IEEE Transactions on 19},
   12 (2013), 2406--2415.
 
 \bibitem[HJ11]{hansen2011visualization}
 \textsc{Hansen C.~D., Johnson C.~R.}:
-\newblock \emph{Visualization handbook}.
+\newblock \emph{{Visualization handbook}}.
 \newblock Academic Press, 2011.
 
 \bibitem[HM90]{robert}
@@ -296,14 +297,14 @@
 
 \bibitem[HR07]{heer2007}
 \textsc{Heer J., Robertson G.~G.}:
-\newblock Animated transitions in statistical data graphics.
+\newblock {Animated Transitions in Statistical Data Graphics}.
 \newblock \emph{Visualization and Computer Graphics, IEEE Transactions on 13},
   6 (2007), 1240--1247.
 
 \bibitem[HVW07a]{heer2007a}
 \textsc{Heer J., Vi{\'e}gas F.~B., Wattenberg M.}:
-\newblock Voyagers and voyeurs: supporting asynchronous collaborative
-  information visualization.
+\newblock {Voyagers and Voyeurs: Supporting Asynchronous Collaborative
+  Information Visualization}.
 \newblock In \emph{Proceedings of the SIGCHI conference on Human factors in
   computing systems} (2007), ACM, pp.~1029--1038.
 
@@ -316,7 +317,7 @@
 
 \bibitem[IPTO11]{isola2011}
 \textsc{Isola P., Parikh D., Torralba A., Oliva A.}:
-\newblock Understanding the intrinsic memorability of images.
+\newblock {Understanding the Intrinsic Memorability of Images}.
 \newblock In \emph{Advances in Neural Information Processing Systems} (2011),
   pp.~2429--2437.
 
@@ -329,8 +330,8 @@
 
 \bibitem[Kan12]{kandogan2012}
 \textsc{Kandogan E.}:
-\newblock Just-in-time annotation of clusters, outliers, and trends in
-  point-based data visualizations.
+\newblock {Just-in-time Annotation of clusters, Outliers, and Trends in
+  Point-based Data Visualizations}.
 \newblock In \emph{Visual Analytics Science and Technology (VAST), 2012 IEEE
   Conference on} (2012), IEEE, pp.~73--82.
 
@@ -341,20 +342,20 @@
 
 \bibitem[KS12]{kuhn2012}
 \textsc{Kuhn A., Stocker M.}:
-\newblock Codetimeline: Storytelling with versioning data.
+\newblock {CodeTimeline: Storytelling with versioning data}.
 \newblock In \emph{Software Engineering (ICSE), 2012 34th International
   Conference on} (2012), IEEE, pp.~1333--1336.
 
 \bibitem[Lar11]{laramee2011read}
 \textsc{Laramee R.~S.}:
-\newblock How to read a visualization research paper: Extracting the
-  essentials.
+\newblock {How to read a visualization research paper: Extracting the
+  essentials}.
 \newblock \emph{Computer Graphics and Applications, IEEE 31}, 3 (2011), 78--82.
 
 \bibitem[LCPT12]{li2012}
 \textsc{Li G., Cao X., Paolantonio S., Tian F.}:
-\newblock Sketchcomm: a tool to support rich and flexible asynchronous
-  communication of early design ideas.
+\newblock {SketchComm: A Tool to Support Rich and Flexible Asynchronous
+  Communication of Early Design Ideas}.
 \newblock In \emph{Proceedings of the ACM 2012 conference on Computer Supported
   Cooperative Work} (2012), ACM, pp.~359--368.
 
@@ -367,14 +368,14 @@
 
 \bibitem[LJ13]{lundblad2013}
 \textsc{Lundblad P., Jern M.}:
-\newblock Geovisual analytics and storytelling using html5.
+\newblock {Geovisual Analytics and Storytelling Using HTML5}.
 \newblock In \emph{Information Visualisation (IV), 2013 17th International
   Conference} (2013), IEEE, pp.~263--271.
 
 \bibitem[LKS13]{lee2013}
 \textsc{Lee B., Kazi R.~H., Smith G.}:
-\newblock Sketchstory: Telling more engaging stories with data through freeform
-  sketching.
+\newblock {SketchStory: Telling More Engaging Stories with Data through
+  Freeform Sketching}.
 \newblock \emph{Visualization and Computer Graphics, IEEE Transactions on 19},
   12 (2013), 2416--2425.
 
@@ -385,7 +386,7 @@
 
 \bibitem[LS08]{lu2008interactive}
 \textsc{Lu A., Shen H.-W.}:
-\newblock Interactive storyboard for overall time-varying data visualization.
+\newblock {Interactive storyboard for overall time-varying data visualization}.
 \newblock In \emph{Visualization Symposium, 2008. PacificVIS'08. IEEE Pacific}
   (2008), IEEE, pp.~143--150.
 
@@ -397,7 +398,7 @@
 
 \bibitem[LYC10]{liao2010}
 \textsc{Liao Z., Yu Y., Chen B.}:
-\newblock Anomaly detection in gps data based on visual analytics.
+\newblock {Anomaly Detection in GPS Data Based on Visual Analytics}.
 \newblock In \emph{Visual Analytics Science and Technology (VAST), 2010 IEEE
   Symposium on} (2010), IEEE, pp.~51--58.
 
@@ -421,7 +422,7 @@
 
 \bibitem[MH01]{mroz2001rtvr}
 \textsc{Mroz L., Hauser H.}:
-\newblock Rtvr: a flexible java library for interactive volume rendering.
+\newblock {RTVR: a Flexible Java Library for Interactive Volume Rendering}.
 \newblock In \emph{Proceedings of the conference on Visualization'01} (2001),
   IEEE Computer Society, pp.~279--286.
 
@@ -432,7 +433,7 @@
 
 \bibitem[Nar85]{naratology1985}
 \textsc{Naratology M.}:
-\newblock Introduction to the theory of narrative, 1985.
+\newblock {Introduction to The Theory of Narrative}, 1985.
 
 \bibitem[Ogi09]{Ogievetsky2009}
 \textsc{Ogievetsky. V.}:
@@ -442,7 +443,7 @@
 
 \bibitem[OM09]{ogawa2009}
 \textsc{Ogawa M., Ma K.-L.}:
-\newblock code\_swarm: A design study in organic software visualization.
+\newblock {Code\_swarm: A design study in organic software visualization}.
 \newblock \emph{Visualization and Computer Graphics, IEEE Transactions on 15},
   6 (2009), 1097--1104.
 
@@ -454,8 +455,8 @@
 
 \bibitem[PLL{\etalchar{*}}99]{plowman1999}
 \textsc{Plowman L., Luckin R., Laurillard D., Stratfold M., Taylor J.}:
-\newblock Designing multimedia for learning: Narrative guidance and narrative
-  construction.
+\newblock {Designing Multimedia for Learning: Narrative Guidance and Narrative
+  Construction}.
 \newblock In \emph{Proceedings of the SIGCHI conference on Human Factors in
   Computing Systems} (1999), ACM, pp.~310--317.
 
@@ -475,9 +476,9 @@
 
 \bibitem[Rod11]{rodgers2011}
 \textsc{Rodgers J.}:
-\newblock Defining and experiencing authorship (s) in the composition
-  classroom: Findings from a qualitative study of undergraduate writing
-  students at the city university of new york.
+\newblock {Defining and Experiencing Authorship (s) in the Composition
+  Classroom: Findings from a Qualitative Study of Undergraduate Writing
+  Students at the City University of New York.}
 \newblock \emph{Journal of Basic Writing (CUNY) 30}, 1 (2011), 130--155.
 
 \bibitem[Ros06]{ted1}
@@ -496,7 +497,7 @@
 
 \bibitem[Sch08]{Schell:2008}
 \textsc{Schell J.}:
-\newblock \emph{The Art of Game Design: A Book of Lenses}.
+\newblock \emph{{The Art of Game Design: A Book of Lenses}}.
 \newblock Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 2008.
 
 \bibitem[SH10]{segal}
@@ -537,7 +538,7 @@
 
 \bibitem[SSKB15]{saket2015}
 \textsc{Saket B., Scheidegger C., Kobourov S.~G., B{\"o}rner K.}:
-\newblock Map-based visualizations increase recall accuracy of data.
+\newblock {Map-based Visualizations Increase Recall Accuracy of Data}.
 \newblock \emph{EuroVis, Accepted To Appear} (2015).
 
 \bibitem[svs14]{svs1}
@@ -563,7 +564,7 @@
 
 \bibitem[TMHO06]{theune2006generating}
 \textsc{Theune M., Meijs K., Heylen D., Ordelman R.}:
-\newblock Generating expressive speech for storytelling applications.
+\newblock {Generating Expressive Speech for Storytelling Applications}.
 \newblock \emph{Audio, Speech, and Language Processing, IEEE Transactions on
   14}, 4 (2006), 1137--1144.
 
@@ -574,8 +575,8 @@
 
 \bibitem[VBN{\etalchar{*}}04]{viegas2004}
 \textsc{Vi{\'e}gas F.~B., Boyd D., Nguyen D.~H., Potter J., Donath J.}:
-\newblock Digital artifacts for remembering and storytelling: Posthistory and
-  social network fragments.
+\newblock {Digital Artifacts for Remembering and Storytelling: Posthistory and
+  social network fragments}.
 \newblock In \emph{System Sciences, 2004. Proceedings of the 37th Annual Hawaii
   International Conference on} (2004), IEEE, pp.~10--pp.
 
@@ -586,13 +587,13 @@
 
 \bibitem[VPB11a]{veloso2011}
 \textsc{Veloso M., Phithakkitnukoon S., Bento C.}:
-\newblock Urban mobility study using taxi traces.
+\newblock {Urban Mobility Study Using Taxi Traces}.
 \newblock In \emph{Proceedings of the 2011 international workshop on Trajectory
   data mining and analysis} (2011), ACM, pp.~23--30.
 
 \bibitem[VPB{\etalchar{*}}11b]{Veloso}
 \textsc{Veloso M., Phithakkitnukoon S., Bento C., Fonseca N., Olivier P.}:
-\newblock Exploratory study of urban flow using taxi traces.
+\newblock {Exploratory Study of Urban Flow Using Taxi Traces}.
 \newblock In \emph{First Workshop on Pervasive Urban Applications (PURBA) in
   conjunction with Pervasive Computing, San Francisco, California, USA} (2011).
 
@@ -615,12 +616,12 @@
 
 \bibitem[YMH01]{yahiaoui2001automatic}
 \textsc{Yahiaoui I., Merialdo B., Huet B.}:
-\newblock Automatic video summarization.
+\newblock {Automatic video summarization}.
 \newblock In \emph{Proc. CBMIR Conf} (2001).
 
 \bibitem[Zip13]{Jack1995}
 \textsc{Zipes J.}:
-\newblock \emph{Creative storytelling: Building community/changing lives}.
+\newblock \emph{{Creative storytelling: Building community/changing lives}}.
 \newblock Routledge, 2013.
 
 \end{thebibliography}
